@@ -1,0 +1,5 @@
+Component: main
+Origin: set-soft.github.io/debian
+Label: kibot
+Architecture: amd64
+Description: KiBot Debian repo

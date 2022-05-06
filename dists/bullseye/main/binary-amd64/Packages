@@ -1,0 +1,223 @@
+Package: interactivehtmlbom.inti-cmnb
+Version: 2.4.1-3
+Architecture: all
+Maintainer: Salvador Eduardo Tropea <salvador@inti.gob.ar>
+Installed-Size: 960
+Depends: python3:any (>= 3.2~), kicad (>= 5.1.0) | kicad-nightly, python3-wxgtk4.0
+Multi-Arch: foreign
+Homepage: https://github.com/INTI-CMNB/InteractiveHtmlBom
+Priority: optional
+Section: electronics
+Filename: pool/main/i/interactivehtmlbom.inti-cmnb/interactivehtmlbom.inti-cmnb_2.4.1-3_all.deb
+Size: 110140
+SHA256: 8fe8a157e1c32aeccd8be1b47edf0207208aa1fff7cbd3d00b50912fd71ed2ee
+SHA1: 1f240567fced6902c908b8cfe05b92b1f2bf74fb
+MD5sum: bd5c0d4ed7ff5ff0b38451aaf52f44e7
+Description: Interactive HTML BOM plugin for KiCad
+ This plugin generates convenient BOM listing with ability to visually
+ correlate and easily search for components and their placements on the pcb.
+
+Package: kiauto
+Version: 1.6.10-1
+Architecture: all
+Maintainer: Salvador Eduardo Tropea <salvador@inti.gob.ar>
+Installed-Size: 180
+Depends: python3-psutil, python3-xvfbwrapper, python3:any (>= 3.2~), recordmydesktop, xdotool, kicad (>= 5.1.0), xsltproc, xclip, imagemagick
+Recommends: fluxbox, wmctrl, x11vnc, ssvnc, procps
+Multi-Arch: foreign
+Homepage: https://github.com/INTI-CMNB/kicad-automation-scripts/
+Priority: optional
+Section: electronics
+Filename: pool/main/k/kiauto/kiauto_1.6.10-1_all.deb
+Size: 46548
+SHA256: 6f7f07dcfed82fed7e0fa9e111a45f84bcf002597c817e2b859ce5b43a3dd149
+SHA1: bbf2c8c8aa65173aa5350c23a7ca1cdd64c25965
+MD5sum: 55295e11ceed0c156d04f4e38d64160f
+Description: KiCad automation scripts
+ Runs KiCad in a virtual environment to automate some tasks.
+ You can run the ERC and DRC, print the PCB and schematic,
+ generate the netlist and the BoM.
+
+Package: kibom.inti-cmnb
+Version: 1.8.0-2
+Architecture: all
+Maintainer: Salvador Eduardo Tropea <salvador@inti.gob.ar>
+Installed-Size: 125
+Depends: python3:any (>= 3.2~)
+Recommends: python3-xlsxwriter
+Multi-Arch: foreign
+Homepage: https://github.com/INTI-CMNB/KiBoM
+Priority: optional
+Section: electronics
+Filename: pool/main/k/kibom.inti-cmnb/kibom.inti-cmnb_1.8.0-2_all.deb
+Size: 32640
+SHA256: 681e98f8d59259d0ba1f5f467a6508b4ca3f81b3630b054fcf5e7fcbced11b95
+SHA1: d25b626a1f91e8bdbc25421e383405dca249a20c
+MD5sum: 4c41f09e2ecefd7e4aaebc06871cbde8
+Description: Configurable BoM generation tool for KiCad
+ Can generate CSV, HTML, XML and XLSX Bill of Materials for KiCad projects.
+ The script can be used from the command line or as a KiCad BoM generator.
+
+Package: kibot
+Version: 0.11.0-1
+Architecture: all
+Maintainer: Salvador Eduardo Tropea <salvador@inti.gob.ar>
+Installed-Size: 1126
+Depends: python3-colorama, python3-requests, python3-xlsxwriter, python3-yaml, python3:any (>= 3.6~), python3-distutils, kicad (>= 5.1.6), python3-wxgtk4.0
+Recommends: kibom.inti-cmnb (>= 1.8.0), interactivehtmlbom.inti-cmnb, pcbdraw, imagemagick, librsvg2-bin, rar
+Multi-Arch: foreign
+Homepage: https://github.com/INTI-CMNB/KiBot
+Priority: optional
+Section: electronics
+Filename: pool/main/k/kibot/kibot_0.11.0-1_all.deb
+Size: 265348
+SHA256: e3fb6a1a485e1f0e8e2cf2cd8c975a97321f906d943bfa092c39c43de19c5164
+SHA1: 6631af8b850f0f124d15abf2e8c427e1075a7564
+MD5sum: 9783495f329eb3e59722a254a980ebb7
+Description: KiCad Bot
+ KiBot is a program which helps you to automate the generation of KiCad
+ output documents easily, repeatable, and most of all, scriptably.
+ .
+ This means you can use a Makefile to export your KiCad PCBs and
+ Schematics just as needed.
+
+Package: kicost
+Version: 1.1.5-5
+Architecture: all
+Maintainer: Salvador Eduardo Tropea <stropea@inti.gob.ar>
+Installed-Size: 1241
+Depends: kicad, python3-bs4, python3-colorama, python3-lxml, python3-requests, python3-tqdm, python3-validators, python3-wxgtk4.0, python3-xlsxwriter, python3:any (>= 3.2~)
+Multi-Arch: foreign
+Homepage: https://github.com/INTI-CMNB/KiCost
+Priority: optional
+Section: electronics
+Filename: pool/main/k/kicost/kicost_1.1.5-5_all.deb
+Size: 396848
+SHA256: 9582dc7d8f7a2161b4d8784e6f4af4b5d6e75aa6669df368345f25aa56923ad5
+SHA1: c02148e4c94e5b8a0397901ad06a044b89517024
+MD5sum: e690995f1c2aed6c0e0ca1d4e9ece040
+Description: Electronic parts cost finder for KiCad
+ KiCost is intended to be run as a script for generating part-cost
+ spreadsheets for circuit boards developed with KiCad. KiCost also
+ comes with a graphical user interface in addition to command line.
+
+Package: pcbdraw
+Version: 0.9.0-1
+Architecture: all
+Maintainer: Salvador E. Tropea <stropea@inti.gob.ar>
+Installed-Size: 2589
+Depends: python3-lxml, python3-mistune, python3-numpy, python3-pcbnewtransition, python3-pybars, python3-svgpathtools, python3-wand, python3-yaml, python3:any (>= 3.2~)
+Multi-Arch: foreign
+Homepage: https://github.com/yaqwsx/PcbDraw
+Priority: optional
+Section: electronics
+Filename: pool/main/p/pcbdraw/pcbdraw_0.9.0-1_all.deb
+Size: 114188
+SHA256: f2e7cc9aab15a560d4ebaada7eaf78287f15893465dfc43cdfb8c946265083b8
+SHA1: 9d16bcb530cc500ac3fff1604d61a3ebff6e283a
+MD5sum: 8cd772950c28631f9972c92cbb4b4d2e
+Description: Converts KiCAD boards into nice looking 2D drawings
+ Convert your KiCAD boards into nice looking 2D drawings suitable for pinout
+ diagrams. Never draw them manually again!
+
+Package: python3-pcbnewtransition
+Version: 0.2.0-1
+Architecture: all
+Maintainer: Salvador E. Tropea <salvador@inti.gob.ar>
+Installed-Size: 27
+Depends: python3:any (>= 3.2~)
+Multi-Arch: foreign
+Homepage: <https://github.com/yaqwsx/pcbnewTransition>
+Priority: optional
+Section: Python
+Filename: pool/main/p/python3-pcbnewtransition/python3-pcbnewtransition_0.2.0-1_all.deb
+Size: 4944
+SHA256: 1616c1c29057ce790ed556d197619c442746f661691bcb1a2238ae3eb33d3bde
+SHA1: ce611f66fd91431565dafbeb4c3831b9911cf2dd
+MD5sum: 935f72ade930a017c5ac959af8072fde
+Description: KiCad 5/6 pcbnew API compatibility layer
+ A very simple layer to prvide KiCad 5 compatibility using the KiCad 6 API.
+
+Package: python3-pybars
+Version: 0.9.7-1
+Architecture: all
+Maintainer: Salvador E. Tropea <stropea@inti.gob.ar>
+Installed-Size: 64
+Depends: python3:any (>= 3.2~), python3-pymeta
+Multi-Arch: foreign
+Homepage: https://github.com/wbond/pybars3
+Priority: optional
+Section: Python
+Filename: pool/main/p/python3-pybars/python3-pybars_0.9.7-1_all.deb
+Size: 15280
+SHA256: 2f85adf6fb3a23449cec549115c1edb26d2ae462449cd85ae33974c1cf5fb23f
+SHA1: 786237b6221cf806a26639f8503c6ce8f6cdd03a
+MD5sum: 4dc465cbc67f4ef6e1cc7c646c6ac54e
+Description: Handlebars.js for Python
+ Pybars3 provides a template system for Python which is compatible with
+ Handlebars.js. It is a fork of the pybars project that adds Python 3
+ compatibility and numerous features from Handlebars.js 2.0.
+
+Package: python3-pymeta
+Version: 0.5.1-1
+Architecture: all
+Maintainer: Salvador E. Tropea <stropea@inti.gob.ar>
+Installed-Size: 93
+Depends: python3:any (>= 3.2~)
+Multi-Arch: foreign
+Homepage: https://github.com/wbond/pybars3
+Priority: optional
+Section: Python
+Filename: pool/main/p/python3-pymeta/python3-pymeta_0.5.1-1_all.deb
+Size: 14540
+SHA256: e74e32447340deaf0be72208b175cde38a84bcdf08882b0e820439e189508ed2
+SHA1: faae84edd3376f00d095720127bd12855f836bde
+MD5sum: 88253fdd352c10797ae2a5113f4baa9c
+Description: A Pattern-Matching Language Based on Python
+ PyMeta is an implementation of OMeta, an object-oriented pattern-matching
+ language developed by Alessandro Warth
+ (http://www.cs.ucla.edu/~awarth/ometa/). PyMeta provides a compact syntax
+ based on Parsing Expression Grammars (PEGs) for common lexing, parsing and
+ tree-transforming activities in a way that's easy to reason about for Python
+ programmers.
+
+Package: python3-svgpathtools
+Version: 1.4.3-1
+Architecture: all
+Maintainer: Salvador E. Tropea <stropea@inti.gob.ar>
+Installed-Size: 269
+Depends: python3-numpy, python3-scipy, python3-svgwrite, python3:any (>= 3.2~)
+Multi-Arch: foreign
+Homepage: <https://github.com/mathandy/svgpathtools/>
+Priority: optional
+Section: Python
+Filename: pool/main/p/python3-svgpathtools/python3-svgpathtools_1.4.3-1_all.deb
+Size: 54592
+SHA256: 2aac534a15b68b982cdf96eeb07a361ebd019feb7af8aebc6997ecb61d2210cd
+SHA1: bd2f17adec11d62bd6ecf56320887fdc73bac096
+MD5sum: 3141671a4c879ac449441b3962b7223f
+Description: SVG path tools for Python
+ svgpathtools is a collection of tools for manipulating and analyzing SVG
+ Path objects and Bezier curves.
+
+Package: python3-validators
+Source: validators
+Version: 0.14.2-2
+Architecture: all
+Maintainer: Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+Installed-Size: 66
+Depends: python3-decorator, python3-six (>= 1.4.0), python3:any
+Homepage: https://github.com/kvesteri/validators
+Priority: optional
+Section: python
+Filename: pool/main/v/validators/python3-validators_0.14.2-2_all.deb
+Size: 14428
+SHA256: ecb68e3fea587b75f992e9c6c9b62bd27ab589545c8796a7f4916b45feae6b2d
+SHA1: ce7527f551b971af6dca98e9c5fd6a6c54087707
+MD5sum: 39f013e1c2a452d28192ecc08ad6630d
+Description: Python Data Validation for Humans (Python 3)
+ Python has all kinds of data validation tools, but every one of them
+ seems to require defining a schema or form. The author wanted to
+ create a simple validation library where validating a simple value
+ does not require defining a form or a schema.
+
