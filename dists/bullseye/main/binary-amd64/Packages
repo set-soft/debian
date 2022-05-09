@@ -82,20 +82,20 @@ Description: KiCad Bot
  Schematics just as needed.
 
 Package: kicost
-Version: 1.1.5-5
+Version: 1.1.8-1
 Architecture: all
 Maintainer: Salvador Eduardo Tropea <stropea@inti.gob.ar>
-Installed-Size: 1241
-Depends: kicad, python3-bs4, python3-colorama, python3-lxml, python3-requests, python3-tqdm, python3-validators, python3-wxgtk4.0, python3-xlsxwriter, python3:any (>= 3.2~)
+Installed-Size: 1586
+Depends: kicad, kicost-digikey-api-v3, python3-bs4, python3-colorama, python3-lxml, python3-requests, python3-tqdm, python3-validators, python3-wxgtk4.0, python3-xlsxwriter, python3-yaml, python3:any (>= 3.2~)
 Multi-Arch: foreign
 Homepage: https://github.com/INTI-CMNB/KiCost
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kicost/kicost_1.1.5-5_all.deb
-Size: 396848
-SHA256: 9582dc7d8f7a2161b4d8784e6f4af4b5d6e75aa6669df368345f25aa56923ad5
-SHA1: c02148e4c94e5b8a0397901ad06a044b89517024
-MD5sum: e690995f1c2aed6c0e0ca1d4e9ece040
+Filename: pool/main/k/kicost/kicost_1.1.8-1_all.deb
+Size: 464128
+SHA256: 39bf401e0e4c70a6bd1e90a3d09d4bb5fed36cdc7d96e4b655073f02f591dbeb
+SHA1: 97fe72dc729a48f0ba62633443c5058ebfab4d65
+MD5sum: a272132d995003bd4be656e192cf3a9c
 Description: Electronic parts cost finder for KiCad
  KiCost is intended to be run as a script for generating part-cost
  spreadsheets for circuit boards developed with KiCad. KiCost also
