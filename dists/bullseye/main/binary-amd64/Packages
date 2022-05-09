@@ -101,6 +101,24 @@ Description: Electronic parts cost finder for KiCad
  spreadsheets for circuit boards developed with KiCad. KiCost also
  comes with a graphical user interface in addition to command line.
 
+Package: kicost-digikey-api-v3
+Version: 0.1.1-1
+Architecture: all
+Maintainer: Salvador E. Tropea <stropea@inti.gob.ar>
+Installed-Size: 465
+Depends: python3-certifi, python3-dateutil, python3-inflection, python3-openssl, python3-pkg-resources, python3-requests, python3-six, python3-tldextract, python3-urllib3, python3:any (>= 3.2~)
+Multi-Arch: foreign
+Homepage: https://github.com/set-soft/kicost-digikey-api-v3/
+Priority: optional
+Section: electronics
+Filename: pool/main/k/kicost-digikey-api-v3/kicost-digikey-api-v3_0.1.1-1_all.deb
+Size: 52164
+SHA256: 76caaadbc53f4060346e79306bac5d58bfc2ba51efd1524ecd1cf547bf820612
+SHA1: 3a31d124f47dc907ce5f12b94dc3bbdd1831e4b3
+MD5sum: a2faa71d4228c9dd233c57cec85d6493
+Description: Digi-Key API plug-in for KiCost
+ This package adds native support for Digi-Key to KiCost.
+
 Package: pcbdraw
 Version: 0.9.0-1
 Architecture: all
