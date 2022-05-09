@@ -138,6 +138,26 @@ Description: Converts KiCAD boards into nice looking 2D drawings
  Convert your KiCAD boards into nice looking 2D drawings suitable for pinout
  diagrams. Never draw them manually again!
 
+Package: python3-babel
+Version: 2.9.0-1
+Architecture: all
+Maintainer: Salvador E. Tropea <stropea@inti.gob.ar>
+Installed-Size: 27521
+Depends: python3-tz, python3:any (>= 3.2~)
+Multi-Arch: foreign
+Homepage: https://github.com/python-babel/babel
+Priority: optional
+Section: python
+Filename: pool/main/p/python3-babel/python3-babel_2.9.0-1_all.deb
+Size: 5224004
+SHA256: 662baf42844d0f24b5847371d6304089f1d8e4c777b82675ce8d3003e2805eb2
+SHA1: 2de3c00f66919f4096be618dd56a5b232ad5281c
+MD5sum: 6c11f396649c08823ed507ad7d0e3fbd
+Description: Python internationalizing and localizing helper
+ Babel is a Python library that provides an integrated collection of
+ utilities that assist with internationalizing and localizing Python
+ applications (in particular web-based applications.)
+
 Package: python3-pcbnewtransition
 Version: 0.2.0-1
 Architecture: all
