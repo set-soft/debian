@@ -4,4 +4,4 @@ Codename: bullseye
 Architectures: amd64
 Components: main
 Description: KiBot Debian repo
-SignWith: 8EF8993CA43394155E5D6CE2B5BA3682CB1D08EB
+SignWith: B5BA3682CB1D08EB
