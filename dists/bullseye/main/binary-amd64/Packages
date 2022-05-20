@@ -18,21 +18,21 @@ Description: Interactive HTML BOM plugin for KiCad
  correlate and easily search for components and their placements on the pcb.
 
 Package: kiauto
-Version: 1.6.10-1
+Version: 1.6.11-1
 Architecture: all
 Maintainer: Salvador Eduardo Tropea <salvador@inti.gob.ar>
-Installed-Size: 180
+Installed-Size: 181
 Depends: python3-psutil, python3-xvfbwrapper, python3:any (>= 3.2~), recordmydesktop, xdotool, kicad (>= 5.1.0), xsltproc, xclip, imagemagick
 Recommends: fluxbox, wmctrl, x11vnc, ssvnc, procps
 Multi-Arch: foreign
 Homepage: https://github.com/INTI-CMNB/kicad-automation-scripts/
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kiauto/kiauto_1.6.10-1_all.deb
-Size: 46548
-SHA256: 6f7f07dcfed82fed7e0fa9e111a45f84bcf002597c817e2b859ce5b43a3dd149
-SHA1: bbf2c8c8aa65173aa5350c23a7ca1cdd64c25965
-MD5sum: 55295e11ceed0c156d04f4e38d64160f
+Filename: pool/main/k/kiauto/kiauto_1.6.11-1_all.deb
+Size: 46808
+SHA256: 45165805b6979e3baabb412e00ff6d4dba58a5a1743e76788e58fbef4d5f7cc7
+SHA1: 4086321335314aac4dc88d7f7d691ad5bb504cf1
+MD5sum: 0c1e95d81671aff7ea2d9e051cc83012
 Description: KiCad automation scripts
  Runs KiCad in a virtual environment to automate some tasks.
  You can run the ERC and DRC, print the PCB and schematic,
