@@ -4,35 +4,35 @@ Hash: SHA512
 Origin: set-soft.github.io/debian
 Label: kibot
 Codename: bullseye
-Date: Mon, 13 Jun 2022 12:54:36 UTC
+Date: Wed, 15 Jun 2022 10:09:06 UTC
 Architectures: amd64
 Components: main
 Description: KiBot Debian repo
 MD5Sum:
- f271c8bfac8ec376e8af224644d35e0a 10902 main/binary-amd64/Packages
- c1131bb7bc7ca98479a2ee4f8eaca0af 4052 main/binary-amd64/Packages.gz
+ ee1bbc80b0070b28f4f21e5210906625 10902 main/binary-amd64/Packages
+ d8beef0e8b167814d419d6254ac719b7 4056 main/binary-amd64/Packages.gz
  02d81d2c6b20c32d5632ece24ef01f59 114 main/binary-amd64/Release
 SHA1:
- 2f8171eba6ac3c037bbe8b5c703c0e12eec0969e 10902 main/binary-amd64/Packages
- 5ccc7ada0c945eb14152a21323c2e48adac089b6 4052 main/binary-amd64/Packages.gz
+ 873715e6a9c6fc763a3dcad8b8ad25a7f79c76ce 10902 main/binary-amd64/Packages
+ 047bbc77a15ac91b4475d1d588eae9be5966e0a4 4056 main/binary-amd64/Packages.gz
  ef221419883ef2e6bf4e2f9516eab5f8530be9ee 114 main/binary-amd64/Release
 SHA256:
- dce3310c85a3fe2614e1a18baa3e2ee5cded084e8f25d9303d3243bfb6d11f8c 10902 main/binary-amd64/Packages
- c93923b63df161b6627566c8623bb5c0c3f66a73d6fa7fa6130d4ddfdadb1f93 4052 main/binary-amd64/Packages.gz
+ ae079698221a4d5b2d4b0d0a81df0959a0cffa967c8fdd66e30106936c98321a 10902 main/binary-amd64/Packages
+ c4d4862f090379e63617747cfd80d4451184751ae75c762fb3e320c3c146c3d7 4056 main/binary-amd64/Packages.gz
  a7d5927b02c9e0adc32ab07463fb4d70071c755f409ea845d02f84a49590cdf6 114 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEjviZPKQzlBVeXWzitbo2gssdCOsFAmKnM5UACgkQtbo2gssd
-COvL2Q/+Kpw0oterTPhfGW2ToltdF0i7ACoDCiANNIRScoEd2XOg609dFrPJVrdt
-58uXYBzCsM5F4Sy7/Iz+KOkZSSi3tMxeX7u7tP0FNMLaBhKag2LrIn1gskMQeIkj
-Ja8G5HI/L7CJj3CKAPJ39KfwBggMzsef8lSg4x5PJBgHS9gOZUpRsrYMlOz5KK6R
-SLtVm6wcPSWZW8WYF2i6/pXOKsLvwWo82BQAFOq8Cr8CTBxtvgvAMHBfwEf5A8uB
-TgSJujfB4VfXxSw/Xm173LGvfj00FXiO2xS3edEQ7LsuQw5F7XwwAvjGdami1XoS
-d9D5SjTrLxhHHV7njrSSzIwjsRDCI7DAt6AoSmMPiQEV+9dd+3tSb1Mzrs1fE+HC
-OvzffEEWVd1VXXslpSYPWDWzoGQMoVUQYpkdtobuIjfnemlURWYQj+UNu4Gsk17F
-pu16lvLSiTLW+hIRMrGBeX96yD878fQ34ZVw7uUyfOlYkHO6K+tf1E/EIGxhgkkZ
-rghfrOdCN60/MF6gQlpZZSefTz6ehF36GfY1dmux4cbHzgB3/Wn5buKVMkjt7H19
-eap+g6ejkxREqfpf27vYVk+z24uDmEU1oRyj18As9Q1bUcoyC5/RHJO2yx7H0pFe
-Yr9Az1tYgmSmN0rHFMsJESNe4fMTlSqeSxkvrCZAM8++LF7IzKw=
-=MiXd
+iQIzBAEBCgAdFiEEjviZPKQzlBVeXWzitbo2gssdCOsFAmKpr8sACgkQtbo2gssd
+COtkOQ/+Km4n2dyqKqNDRz+zKkJu0Ek82wSaINl1ob0bVv/pOpyrGwZrOgXLZMvz
+8yAyNTFvffAg7AX1lBO7/45WMQM6pT3AuDJcI8LXP+AQ0bUhDsgOLvmrmKmSvzcT
+X4irmPACmSoX4oLBeqH4nQJ2D3DEevjUTTQIO5b4QzcjGriaQAlgUSr3ot8rAHF9
+2SwtkGs5HM2DLx8muIigzg8CSg0nKgpYh7KCU7SnDT7veR/m5xkVr16xUCvDktqu
+rrKRiqux0HlPhEPPEzcxnVUEWUcqs4+oG0fsbXk9lHSP6alLwWqxJPaNwkZjbzi9
+QClr12QE1OYMYiIjkGRD1UMdpJheRYsFDFJFLzfEBzXHlx8s6EGQAt/XMZ++H/Ql
+14lnlMJZlXlBjZqH6hK5xvumKsgr3twtvxdSr73XzibwPgWXZwP1RSp3FChYRRPW
+5yDQu7b0Di5AMoCxh8/CmZl9ZhPGF1UINCUrIkeIUu6RmOgpoQbX2VL3eg6p25KS
+P/bB85MWALHIdARp4c/5bAF4l6mJCdVDwdwnWJxEo4AYE7yOxTfOz38ne6+i4JDf
+qy+QhKQF982SKhAK+hcLnTxPLPtcSUkPZf7BxGDRsc8tHcP1H3AZRZLfddSSOBDK
+uEafgb7apFlWNsgijSwbTFYCHLXzuseuYG0NhokgzqxPk3/d6pA=
+=zHrt
 -----END PGP SIGNATURE-----
