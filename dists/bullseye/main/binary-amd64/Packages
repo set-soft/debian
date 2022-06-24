@@ -121,20 +121,20 @@ Description: Digi-Key API plug-in for KiCost
  This package adds native support for Digi-Key to KiCost.
 
 Package: pcbdraw
-Version: 0.9.0-1
+Version: 0.9.0-2
 Architecture: all
 Maintainer: Salvador E. Tropea <stropea@inti.gob.ar>
-Installed-Size: 2589
+Installed-Size: 2738
 Depends: python3-lxml, python3-mistune, python3-numpy, python3-pcbnewtransition, python3-pybars, python3-svgpathtools, python3-wand, python3-yaml, python3:any (>= 3.2~)
 Multi-Arch: foreign
 Homepage: https://github.com/yaqwsx/PcbDraw
 Priority: optional
 Section: electronics
-Filename: pool/main/p/pcbdraw/pcbdraw_0.9.0-1_all.deb
-Size: 114188
-SHA256: f2e7cc9aab15a560d4ebaada7eaf78287f15893465dfc43cdfb8c946265083b8
-SHA1: 9d16bcb530cc500ac3fff1604d61a3ebff6e283a
-MD5sum: 8cd772950c28631f9972c92cbb4b4d2e
+Filename: pool/main/p/pcbdraw/pcbdraw_0.9.0-2_all.deb
+Size: 120604
+SHA256: b4b21f1bb870268e735d27375048ae62f84f385faede0e01bde7d6d948cbefb9
+SHA1: 7ad2673b640a9e4d2c5a18454f21cbdcbdd294f9
+MD5sum: 090ceb52e16a5d8cfa3d0916f3751151
 Description: Converts KiCAD boards into nice looking 2D drawings
  Convert your KiCAD boards into nice looking 2D drawings suitable for pinout
  diagrams. Never draw them manually again!
