@@ -83,7 +83,7 @@ Description: KiCad Bot
  Schematics just as needed.
 
 Package: kicost
-Version: 1.1.8-1
+Version: 1.1.10-1
 Architecture: all
 Maintainer: Salvador Eduardo Tropea <stropea@inti.gob.ar>
 Installed-Size: 1586
@@ -92,11 +92,11 @@ Multi-Arch: foreign
 Homepage: https://github.com/INTI-CMNB/KiCost
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kicost/kicost_1.1.8-1_all.deb
-Size: 464128
-SHA256: 39bf401e0e4c70a6bd1e90a3d09d4bb5fed36cdc7d96e4b655073f02f591dbeb
-SHA1: 97fe72dc729a48f0ba62633443c5058ebfab4d65
-MD5sum: a272132d995003bd4be656e192cf3a9c
+Filename: pool/main/k/kicost/kicost_1.1.10-1_all.deb
+Size: 464592
+SHA256: 3db9c4a4c468db62942aa6f4533e864704db72e5fc224c3d1f01ab17f6120d05
+SHA1: a1881db558391c1cedde492604913cb2a264d72a
+MD5sum: 6798756bcfca2d9b36ae481610eeffde
 Description: Electronic parts cost finder for KiCad
  KiCost is intended to be run as a script for generating part-cost
  spreadsheets for circuit boards developed with KiCad. KiCost also
