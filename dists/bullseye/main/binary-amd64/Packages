@@ -82,6 +82,28 @@ Description: KiCad Bot
  This means you can use a Makefile to export your KiCad PCBs and
  Schematics just as needed.
 
+Package: kicad-pcb-diff
+Version: 2.1.0-1
+Architecture: all
+Maintainer: Salvador Eduardo Tropea <salvador@inti.gob.ar>
+Installed-Size: 59
+Depends: python3:any (>= 3.2~), kicad (>= 5.1.0), imagemagick, poppler-utils | ghostscript, xdg-utils, kiauto
+Recommends: git
+Multi-Arch: foreign
+Homepage: https://github.com/INTI-CMNB/kicad_pcb-diff
+Priority: optional
+Section: electronics
+Filename: pool/main/k/kicad-pcb-diff/kicad-pcb-diff_2.1.0-1_all.deb
+Size: 17712
+SHA256: 4dc18e7a126290d2dead44daeac1febadb42c1cb6c340b30e8cc39d0866d433f
+SHA1: aa0ba1a0a3acbfb11c22482ca39ea3b5ec430274
+MD5sum: f85e8b327ce5bc36a593587ff143bb94
+Description: KiCad PCB/SCH diff tool
+ This package provides a tool to compute the difference between two
+ PCB/SCH files created with KiCad.
+ .
+ It also includes a plug-in for git.
+
 Package: kicost
 Version: 1.1.10-1
 Architecture: all
