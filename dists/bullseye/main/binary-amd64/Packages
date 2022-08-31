@@ -143,22 +143,22 @@ Description: Digi-Key API plug-in for KiCost
  This package adds native support for Digi-Key to KiCost.
 
 Package: kidiff
-Version: 2.3.1-1
+Version: 2.4.1-1
 Architecture: all
 Maintainer: Salvador Eduardo Tropea <salvador@inti.gob.ar>
-Installed-Size: 65
-Depends: python3:any (>= 3.2~), kicad (>= 5.1.0), imagemagick, poppler-utils | ghostscript, xdg-utils, kiauto
+Installed-Size: 71
+Depends: python3:any (>= 3.2~), kicad (>= 5.1.0), imagemagick, poppler-utils | ghostscript, xdg-utils, kiauto, librsvg2-bin
 Recommends: git
 Conflicts: kicad-pcb-diff
 Multi-Arch: foreign
 Homepage: https://github.com/INTI-CMNB/kicad_pcb-diff
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kidiff/kidiff_2.3.1-1_all.deb
-Size: 20924
-SHA256: af7bae3fb7731ff3d35e34b6959bc0370e464f91fc8b7cee58d55ecacc924e42
-SHA1: 388713458f845a1bae2d9d763436c839967f9a1c
-MD5sum: f67b4470d9018ffe8180ab73d252d8d9
+Filename: pool/main/k/kidiff/kidiff_2.4.1-1_all.deb
+Size: 23212
+SHA256: e650a896dde489a601a2d3ac533c88d5f6efa95293210fd642fda91aedc636dc
+SHA1: 1c0dffb8cbf24b13c10f01c36fef7c455ca018b5
+MD5sum: a9ac9ec90943ec4d08b88763d4082940
 Description: KiCad PCB/SCH diff tool
  This package provides a tool to compute the difference between two
  PCB/SCH files created with KiCad.
