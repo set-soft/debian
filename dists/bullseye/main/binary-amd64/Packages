@@ -105,7 +105,7 @@ Description: KiCad PCB/SCH diff tool
  It also includes a plug-in for git.
 
 Package: kicost
-Version: 1.1.10-1
+Version: 1.1.12-1
 Architecture: all
 Maintainer: Salvador Eduardo Tropea <stropea@inti.gob.ar>
 Installed-Size: 1586
@@ -114,11 +114,11 @@ Multi-Arch: foreign
 Homepage: https://github.com/INTI-CMNB/KiCost
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kicost/kicost_1.1.10-1_all.deb
-Size: 464592
-SHA256: 3db9c4a4c468db62942aa6f4533e864704db72e5fc224c3d1f01ab17f6120d05
-SHA1: a1881db558391c1cedde492604913cb2a264d72a
-MD5sum: 6798756bcfca2d9b36ae481610eeffde
+Filename: pool/main/k/kicost/kicost_1.1.12-1_all.deb
+Size: 464692
+SHA256: 6ce63bcc6d05145411e08edfc2f3f36ff883b54221dbc94ed8262b9c12b0cb75
+SHA1: 47a8de2d2748b4a63f671f0327da72044500090e
+MD5sum: bedfbe7800314803be59d23dae1f65d4
 Description: Electronic parts cost finder for KiCad
  KiCost is intended to be run as a script for generating part-cost
  spreadsheets for circuit boards developed with KiCad. KiCost also
