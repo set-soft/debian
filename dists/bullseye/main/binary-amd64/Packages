@@ -143,10 +143,10 @@ Description: Digi-Key API plug-in for KiCost
  This package adds native support for Digi-Key to KiCost.
 
 Package: kidiff
-Version: 2.4.1-1
+Version: 2.4.2-1
 Architecture: all
 Maintainer: Salvador Eduardo Tropea <salvador@inti.gob.ar>
-Installed-Size: 71
+Installed-Size: 73
 Depends: python3:any (>= 3.2~), kicad (>= 5.1.0), imagemagick, poppler-utils | ghostscript, xdg-utils, kiauto, librsvg2-bin
 Recommends: git
 Conflicts: kicad-pcb-diff
@@ -154,11 +154,11 @@ Multi-Arch: foreign
 Homepage: https://github.com/INTI-CMNB/kicad_pcb-diff
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kidiff/kidiff_2.4.1-1_all.deb
-Size: 23212
-SHA256: e650a896dde489a601a2d3ac533c88d5f6efa95293210fd642fda91aedc636dc
-SHA1: 1c0dffb8cbf24b13c10f01c36fef7c455ca018b5
-MD5sum: a9ac9ec90943ec4d08b88763d4082940
+Filename: pool/main/k/kidiff/kidiff_2.4.2-1_all.deb
+Size: 24032
+SHA256: 16b9d65700bb5dc9cf1d6472c46e7824fea266432ad9c4657e463b58bd0a93bf
+SHA1: f16a176bf66984ed1b654fc6e4c9295671a82e48
+MD5sum: 0158c7affd64e72f02c3b7ff957c10e5
 Description: KiCad PCB/SCH diff tool
  This package provides a tool to compute the difference between two
  PCB/SCH files created with KiCad.
