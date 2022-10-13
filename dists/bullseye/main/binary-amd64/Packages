@@ -171,7 +171,7 @@ Description: KiCad PCB/SCH diff tool
  It also includes a plug-in for git.
 
 Package: pcbdraw
-Version: 0.9.0-3
+Version: 0.9.0-5
 Architecture: all
 Maintainer: Salvador E. Tropea <stropea@inti.gob.ar>
 Installed-Size: 2739
@@ -180,11 +180,11 @@ Multi-Arch: foreign
 Homepage: https://github.com/yaqwsx/PcbDraw
 Priority: optional
 Section: electronics
-Filename: pool/main/p/pcbdraw/pcbdraw_0.9.0-3_all.deb
-Size: 120644
-SHA256: e1fd299ad296b01bd8a81e57943e78872899332fa4d8df731674c02891db5d92
-SHA1: 5b83c8685eae0c21133917c6d9dc8cd210486142
-MD5sum: c2c3b1c0a4f22bd587cf7e660e7fd659
+Filename: pool/main/p/pcbdraw/pcbdraw_0.9.0-5_all.deb
+Size: 120716
+SHA256: 88d60f76e87d784c6d4a496ffd576e1498e906d7cdaa869a2b803cd82268120d
+SHA1: c1e7fff0b112813764c11a54914c689aed0c465c
+MD5sum: 7308201ab2943cb2f39fcbeb3d9b28e1
 Description: Converts KiCAD boards into nice looking 2D drawings
  Convert your KiCAD boards into nice looking 2D drawings suitable for pinout
  diagrams. Never draw them manually again!
