@@ -169,6 +169,49 @@ Description: KiCad PCB/SCH diff tool
  .
  It also includes a plug-in for git.
 
+Package: kikit
+Version: 1.1.2-1
+Architecture: all
+Maintainer: Salvador E. Tropea <salvador@inti.gob.ar>
+Installed-Size: 892
+Depends: python3-click, python3-commentjson, python3-markdown2, python3-numpy, python3-pcbnewtransition, python3-pybars, python3-shapely, python3:any (>= 3.2~), kicad (>= 6.0.0), openscad
+Suggests: kikit-doc
+Multi-Arch: foreign
+Homepage: https://github.com/yaqwsx/KiKit
+Priority: optional
+Section: electronics
+Filename: pool/main/k/kikit/kikit_1.1.2-1_all.deb
+Size: 234928
+SHA256: 9dc9e6d140591c43ed1334dc7fa3394a730f435803269fd2d73eb4cb508c5f80
+SHA1: f0275b2e7e6befe053b496252acd025d74c0542a
+MD5sum: fcfb7458b9c99b928b6276ec70d99666
+Description: KiKit - Automation for KiCAD
+ KiKit is a Python library, KiCAD plugin and a CLI tool to automate several
+ tasks in a standard KiCAD workflow like:
+ .
+ - panelization of both, regular and oddly shaped, boards
+ - automated exporting manufacturing data based on manufacturer presets
+ - multi-board project in KiCAD
+ - building board presentation pages
+
+Package: kikit-doc
+Source: kikit
+Version: 1.1.2-1
+Architecture: all
+Maintainer: Salvador E. Tropea <salvador@inti.gob.ar>
+Installed-Size: 9977
+Multi-Arch: foreign
+Homepage: https://github.com/yaqwsx/KiKit
+Priority: optional
+Section: doc
+Filename: pool/main/k/kikit/kikit-doc_1.1.2-1_all.deb
+Size: 9890412
+SHA256: 0553df2dd28d846b9c6b90743fa9bd3c0929614ebf99471229cb2e423609b4d1
+SHA1: 4f7d3e36a1e75557016790fb2b7b834434a56a6a
+MD5sum: 71ddb6a05f61196a042617ccd2f61337
+Description: KiKit - Automation for KiCAD - Documentation
+ This package contains KiKit manuals in Markdown format
+
 Package: pcbdraw
 Version: 0.9.0-5
 Architecture: all
