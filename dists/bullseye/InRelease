@@ -4,35 +4,35 @@ Hash: SHA512
 Origin: set-soft.github.io/debian
 Label: kibot
 Codename: bullseye
-Date: Wed, 01 Mar 2023 16:58:28 UTC
+Date: Fri, 03 Mar 2023 11:54:49 UTC
 Architectures: amd64
 Components: main
 Description: KiBot Debian repo
 MD5Sum:
- f5ff44d9a0def1ee2d103751fab9614b 14367 main/binary-amd64/Packages
- d2e72c7bfe62fbef6d497b75ad52ace3 5033 main/binary-amd64/Packages.gz
+ bd71b56b3479c066945befcc645f34eb 14394 main/binary-amd64/Packages
+ 3a3007922e139a2ba5747a4b2484d450 5047 main/binary-amd64/Packages.gz
  02d81d2c6b20c32d5632ece24ef01f59 114 main/binary-amd64/Release
 SHA1:
- 7a2505535a0fbf910a3b191397a424ca8a00fb55 14367 main/binary-amd64/Packages
- 8f98ab0c1e77812c89e2814d8c21d59e5e395b98 5033 main/binary-amd64/Packages.gz
+ 9c29365c376f2ff130f7d5e9665a697ea83005a2 14394 main/binary-amd64/Packages
+ a10d73d22bdaf2a04dbd757d15ad44531ea325fd 5047 main/binary-amd64/Packages.gz
  ef221419883ef2e6bf4e2f9516eab5f8530be9ee 114 main/binary-amd64/Release
 SHA256:
- b85600ddbb3bd677338c62347d302470aed636b1c66c6f2485123a64b6943033 14367 main/binary-amd64/Packages
- 5b6ff8eb0c59dfb5798c344d6e36525cedaa333de4a591202e4912fb7099f0ed 5033 main/binary-amd64/Packages.gz
+ a7156dc642dab8f6dc5ab518821e8ee279cb2d964f95fe1c4921fa3db7531675 14394 main/binary-amd64/Packages
+ 837e084ea58ca69e3b1b6d47c8514335250ea97cd74e8014489e596ef12ded0a 5047 main/binary-amd64/Packages.gz
  a7d5927b02c9e0adc32ab07463fb4d70071c755f409ea845d02f84a49590cdf6 114 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEjviZPKQzlBVeXWzitbo2gssdCOsFAmP/hD0ACgkQtbo2gssd
-COvFeA/8DczENQytowlZx9TeX2qdykwkxOOt1JgU3dZAg7J7xqiNBIB8Zn9+Q9GP
-UJ2B0MQNrWlqPHi/lVdNJ9UX58Pi5RUNU05UeyTOK5CycGyxm+rbxBBMF1lzZWGf
-jtP0mnWgLbU1OPApyKuj8xn0BbIfWPdjPGE8KMCts85rxbaU/lP3PfThwFfcVwSc
-XDAXpRZZU1qFkaPjhDQjUCYThMjYqyOK4Fmr9ukGQMO3e4VgOWbBf4CQUiYKQBvQ
-snrL4XRU1z3odYZAHVpV3ZA14aacQBMOgqi+jPWPQRq1YJMq1RnumYv5PK46UxZe
-ra+CTg6J+cmFtfIpirmKX/sSnI37z6pJ+m0/W9NNFXELocRM9k1UUTR5PgO+Tg//
-guCqRLd/tR0r3vlixmPMAAPbiRg5kadCDwdLifuHz3LRH1a1Y0eMaofrK0uWgvZU
-dD6afCjVG47ledlty+KvbE/Rc9+VGgzijYgPRYzPARcBoo4DJEFisS9AyEF3QQQD
-bDwJfDDjBh0THIoj7vdRsyrLUtq7K9C2TDZtLQFvjN2b5TOtYp800Yq7GFPIuKtT
-IbgbZbI0QDrhqpSVfhfP3b8dwTugs6ohGXlRamAtRtt64ihH0HP6/AEutZ8UaTZE
-eUC2V5fLHDw9Rb+UXHUO0fpUrsPB5wQu5M8YoudKm2KZqKcwofU=
-=brnN
+iQIzBAEBCgAdFiEEjviZPKQzlBVeXWzitbo2gssdCOsFAmQB4A8ACgkQtbo2gssd
+COuINQ//bpvbuP5VRdgVqfbptVEBOCqGI5hh/TRkxU1ruls8O8Myx4lYAhVv19KX
+fEro5QbpxaZZEmn2OjqtT0kyJKYRw/oL14y0kbBs6phFt3emqDRYRhJPm8Rpfwfo
+ic/Y4kILOcEVbWZcD822pomVdelI9JWfepSkzUvI1CT/TXLp00kEdquZR8hayETc
+kymy7b5ynhZn9zPATnTtikSa8188SSBaBNS2HYOjcLfeTbsWfp235OrsOD0bYY36
+SMKURbOeTOlCTdGdqn90tn62ie2lNuiRlweMI5eEx6JGx+iXx7h5qSFGjut1d/ol
+f5/gnFovM8Q8NrRlBhcmswckmXYfTF7wmUht9XXneDlAoKfqPMwMpuzR+7WH6rN2
+PHkDAL/BDuNxJqkvG9C4L5Z2X/Rvziq3fnX4H8eLRdr+Ci/fDiUlRWiaVzLmFD5M
+2Bb/r8Kk/IJ7ZHPkXO345fdFS+Vn9nBJOawUXMdMc0C0+oagPJ4b1DruA6TTo+ce
+qCk8U4jH5OnhfFu7uQfahb5XRcX8Kor1BZQimyE93MRmmj5YF1TzqM/TOMHbZQFY
+4fES7SJJiiO6TssoAOZscKfKvlMvl/NWV3mYobcm8CAR7yaMwR9HfSk43e6oYJAe
+/zAubnF3Pw+oEnaJkCra6UF9ynv0PKpwbHc3aD22JGQYt78MxT4=
+=juw5
 -----END PGP SIGNATURE-----
