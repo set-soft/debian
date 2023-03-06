@@ -170,21 +170,21 @@ Description: KiCad PCB/SCH diff tool
  It also includes a plug-in for git.
 
 Package: kikit
-Version: 1.3.0-3
+Version: 1.3.0-4
 Architecture: all
 Maintainer: Salvador E. Tropea <salvador@inti.gob.ar>
-Installed-Size: 916
+Installed-Size: 920
 Depends: python3-click, python3-commentjson, python3-markdown2, python3-numpy, python3-pcbnewtransition, python3-pybars, python3-shapely, python3:any (>= 3.2~), kicad (>= 6.0.0) | kicad-nightly (>= 6.0.0), openscad
 Suggests: kikit-doc
 Multi-Arch: foreign
 Homepage: https://github.com/yaqwsx/KiKit
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kikit/kikit_1.3.0-3_all.deb
-Size: 239604
-SHA256: 70a9dadff86c6272e1c0c09df9b9b64fffa9219fc0ffa13dd55daecca58e7b38
-SHA1: f889c9a6f6bf82c5139c39770134ea7d194696a7
-MD5sum: fbb2a392cfbe01f339c83e7bf6d1b099
+Filename: pool/main/k/kikit/kikit_1.3.0-4_all.deb
+Size: 240076
+SHA256: 0e9a9a6e480e481dec05b18b073ad4903c90cbcb627528ce2146a146488ac1c9
+SHA1: 03072880af1fb9a7a839ca515d15c7fe61e12348
+MD5sum: f7c2e583f9dd3cffc9b351b4027fe72b
 Description: KiKit - Automation for KiCAD
  KiKit is a Python library, KiCAD plugin and a CLI tool to automate several
  tasks in a standard KiCAD workflow like:
