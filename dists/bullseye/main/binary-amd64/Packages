@@ -18,21 +18,21 @@ Description: Interactive HTML BOM plugin for KiCad
  correlate and easily search for components and their placements on the pcb.
 
 Package: kiauto
-Version: 2.2.1-1
+Version: 2.2.1-2
 Architecture: all
 Maintainer: Salvador Eduardo Tropea <salvador@inti.gob.ar>
 Installed-Size: 284
-Depends: python3 (>= 3~), python3-psutil, python3-xvfbwrapper, python3:any (>= 3.2~), recordmydesktop, xdotool, kicad (>= 5.1.0), xsltproc, xclip, imagemagick
+Depends: python3 (>= 3~), python3-psutil, python3-xvfbwrapper, python3:any (>= 3.2~), recordmydesktop, xdotool, kicad (>= 5.1.0) | kicad-nightly (>= 5.1.0), xsltproc, xclip, imagemagick
 Recommends: fluxbox, wmctrl, x11vnc, ssvnc, procps
 Multi-Arch: foreign
 Homepage: https://github.com/INTI-CMNB/kicad-automation-scripts/
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kiauto/kiauto_2.2.1-1_all.deb
-Size: 68988
-SHA256: 2a37c0f9cc69778869e5e1ec784ff83065ec42210864a37a845b551636b6dedb
-SHA1: f97870b3f8acc6ceb4d15c9c7b62a1312dd893fc
-MD5sum: 9e5401ea969cd616fd2438d3f64fd896
+Filename: pool/main/k/kiauto/kiauto_2.2.1-2_all.deb
+Size: 69104
+SHA256: 6f5f687381d13e231c63d2fcb9a556133bd12d4578e5a21f54da868c23e3984e
+SHA1: 6bfac6f1bbeeb04d169094260a1e9ff7ff7adf11
+MD5sum: fb8ab4a00269d8891625629201831639
 Description: KiCad automation scripts
  Runs KiCad in a virtual environment to automate some tasks.
  You can run the ERC and DRC, print the PCB and schematic,
@@ -58,7 +58,7 @@ Description: Configurable BoM generation tool for KiCad
  The script can be used from the command line or as a KiCad BoM generator.
 
 Package: kibot
-Version: 1.6.1-1
+Version: 1.6.1-2
 Architecture: all
 Maintainer: Salvador Eduardo Tropea <salvador@inti.gob.ar>
 Installed-Size: 6351
@@ -69,11 +69,11 @@ Multi-Arch: foreign
 Homepage: https://github.com/INTI-CMNB/KiBot
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kibot/kibot_1.6.1-1_all.deb
-Size: 825672
-SHA256: 6b187436ad0c2f79a798ac35eb0d00103a995e14c0338586d2dea8f204ccf4dd
-SHA1: 3f812770ef66efd5d255a724d1a8deb0281838e9
-MD5sum: 88b3f8041ba2193f58ac5e87919898de
+Filename: pool/main/k/kibot/kibot_1.6.1-2_all.deb
+Size: 825704
+SHA256: d134f54dfdb238c079e6fef47ea7700997c401acc80f5382385b28856c07ab12
+SHA1: 9aa021cf055ba45c2654fc3e0a545ed6055d2555
+MD5sum: 459b902c36ab0034c8d73fcc05a87bbf
 Description: KiCad Bot
  KiBot is a program which helps you to automate the generation of KiCad
  output documents easily, repeatable, and most of all, scriptably.
@@ -104,20 +104,20 @@ Description: KiCad PCB/SCH diff tool
  It also includes a plug-in for git.
 
 Package: kicost
-Version: 1.1.15-1
+Version: 1.1.15-2
 Architecture: all
 Maintainer: Salvador Eduardo Tropea <stropea@inti.gob.ar>
-Installed-Size: 1640
-Depends: kicad, kicost-digikey-api-v3, python3-bs4, python3-colorama, python3-lxml, python3-requests, python3-tqdm, python3-validators, python3-wxgtk4.0, python3-xlsxwriter, python3-yaml, python3:any (>= 3.2~)
+Installed-Size: 1914
+Depends: kicad | kicad-nightly, kicost-digikey-api-v3, python3-bs4, python3-colorama, python3-lxml, python3-requests, python3-tqdm, python3-validators, python3-wxgtk4.0, python3-xlsxwriter, python3-yaml, python3:any (>= 3.2~)
 Multi-Arch: foreign
 Homepage: https://github.com/INTI-CMNB/KiCost
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kicost/kicost_1.1.15-1_all.deb
-Size: 469220
-SHA256: b06e4f01a2996d37a3260ed4896f2456780e6af89d298f3d875b314da8dc1465
-SHA1: bc24f481296acbef78b984ebb1251ccaa19fb4de
-MD5sum: 62c677b58cd124c0f1fd3030ec1aaf5e
+Filename: pool/main/k/kicost/kicost_1.1.15-2_all.deb
+Size: 479656
+SHA256: c8b758d3931e1d09cfaf60bd801d7f9d31a523718aedbf97bb4d5c0d0d50867c
+SHA1: cfadb5d56d25cf2ec0c56dc3f32ac56c67013240
+MD5sum: 240926601ff99f35d17997d95daa4855
 Description: Electronic parts cost finder for KiCad
  KiCost is intended to be run as a script for generating part-cost
  spreadsheets for circuit boards developed with KiCad. KiCost also
