@@ -4,35 +4,35 @@ Hash: SHA512
 Origin: set-soft.github.io/debian
 Label: kibot
 Codename: bullseye
-Date: Sun, 19 Mar 2023 15:50:41 UTC
+Date: Wed, 29 Mar 2023 12:02:29 UTC
 Architectures: amd64
 Components: main
 Description: KiBot Debian repo
 MD5Sum:
- 7db9431443d87b06f98224f3d8459a01 14437 main/binary-amd64/Packages
- b2062e85626cdd3fb9b1271d6a49fd12 5051 main/binary-amd64/Packages.gz
+ c5029bc8296b0206339dd182162bcf4d 14437 main/binary-amd64/Packages
+ 59cd18ec694957ba4617f44f93c3f985 5051 main/binary-amd64/Packages.gz
  02d81d2c6b20c32d5632ece24ef01f59 114 main/binary-amd64/Release
 SHA1:
- e81df9eb17c0babaa900b7b91e86d74f2070587e 14437 main/binary-amd64/Packages
- 105697143477fe0e02967a2a3cde7eaf5aacf5ca 5051 main/binary-amd64/Packages.gz
+ 4633f302b489d0aea203ff2d4b9a70fbe8f75618 14437 main/binary-amd64/Packages
+ 0fd309ffbaf363f80a4cfce972848cbd384833a7 5051 main/binary-amd64/Packages.gz
  ef221419883ef2e6bf4e2f9516eab5f8530be9ee 114 main/binary-amd64/Release
 SHA256:
- 0b9b60318d8942c26323e3750f0781761fef02da60d12285379842be9b52a5bc 14437 main/binary-amd64/Packages
- 46a2b43922dd53c8023cedcd707c81b47ca097c81c3662839c4647b40a03f32b 5051 main/binary-amd64/Packages.gz
+ 9e0ca15c3801826de01d0b3eb24d4361e30e5466666410f3ebb2000cf0b25c18 14437 main/binary-amd64/Packages
+ 9d8b4f328ebbe8fb16a02bfac03da46890c1bd49da3bb327de0eb2963ae2696a 5051 main/binary-amd64/Packages.gz
  a7d5927b02c9e0adc32ab07463fb4d70071c755f409ea845d02f84a49590cdf6 114 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEjviZPKQzlBVeXWzitbo2gssdCOsFAmQXL10ACgkQtbo2gssd
-COu/7A/+Jy3enStDwJBqdV49LNLALMEHIasJb5mYwXvekmz5Gzd7+KLlne6kImm/
-2Z7enRqCFuWqKvS0hXhAQklakYwtB6HDNb4MMhju9m5WNxOMgA7eoLSqLvoHN6PH
-9XrJDQq5MCDdE0NRcj/i1PzBcZhdTw+01ZGhHlW2mjjRQmBDjGsQMI223HRUbY3N
-4k1M0WTRpw+l2gia08WjVG6IPviJsCb78DavEWTSMrPQemVGpecanU8cccX7O3Oe
-sJNpT8Qoc3tO1t5/zLDsaJXQGoleuUR5wBOSnb5tLAgaE5tFKEOnIvLCJko31R3h
-5M0PrzzK4s2gr7tMqQRpmGf66ztA9PoxfAkR3/XI9VVtf/ljfC74RLqUGolIEKq8
-NglmvLHrP8BNJRmSQVAm1AOm6Vs0oFEgfPpoZMom+w6y1OklGTbVB88lFLPGazii
-WHxrfsSIEvvH1MY8bD7QcRv4+Hpk0FW7INguidqVW8TNj4NSyJD8+yvCZCwUXLv+
-AD4NAd3qV3nPobQArtg7X6HwrRnTVMOaPg/EpTLW02Fo8T1ziXqvY3NfMmpC2LjM
-DqgN8cFo5S4GN5e0Kr2bfRjj2mBgRJIUN76EbK+B15vG2GdnWepcFXXyB1/9YPOI
-xdpMgGboHZUhU/CbgcQWrJtOuZluDgoq7Kf4Lo0gOcXsntQUXHA=
-=4rQp
+iQIzBAEBCgAdFiEEjviZPKQzlBVeXWzitbo2gssdCOsFAmQkKN4ACgkQtbo2gssd
+COtiSg/8CGDpc8coDJSI0EMmO5JHEinfNhCqYJhjsiPUxV/j0mhNhwytMyHcznEU
+ST0yZ4VTttiWjK98wLE0Altn1l+I3B+6mfNAvcABgQf58beYcw9ZwSJduvCJyvdd
+KecnbJEWIfWf8hHZId0VJPrNh9DbVmoDMRTgKfFazEwYVXum7RIku6PmotlrW7UL
+XDdwNR6BEct/QL1s9N4UrwuAkJFECos9+TwQmQDmG3c1T9bdXrzG3rVbvM8BSVIl
+iWgL+NT4zNWHUbKZV9pju9miFKQIMC/lCTdl1cf9oDM2ra2g5NxB4/NqG3tLHg4W
+ARcW6ZOgDBYNjHAhwQuhnafQ58yyGOt6mbOvX2yx34k9nZsiDjM0YlC+Pyh5p7FB
+3G5p60tugcY0GVs0DfACHkxU/g3sxIyxApWudeK6CO+3h15XDd5AOFUPa2VLkjov
+ORNbFcFx33eRWlXd74q/D78kdYdRqaSV8XvR/LlDT1enbWMGE2FIRp2VBGcLwFN+
+BHQ+DEcmf5cOWX1dQSmp1feD2JIYhars4cU702RW5awPuGuuxprPyZXWALKVG01z
+qhSylpM3XrvmU9PaB1SMFk9csiJEitUsrTT/7ZALa1PGoL5vV2YGgT/1L/PB1qQ3
+z1RVWZKq8JRCmztXxB2zMLK/HIG/CehiWO06A2VvkmwU3yuU0WQ=
+=2YZq
 -----END PGP SIGNATURE-----
