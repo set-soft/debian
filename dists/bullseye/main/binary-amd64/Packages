@@ -1,5 +1,5 @@
 Package: interactivehtmlbom.inti-cmnb
-Version: 2.5.0-3
+Version: 2.6.0-1
 Architecture: all
 Maintainer: Salvador Eduardo Tropea <salvador@inti.gob.ar>
 Installed-Size: 1006
@@ -8,11 +8,11 @@ Multi-Arch: foreign
 Homepage: https://github.com/INTI-CMNB/InteractiveHtmlBom
 Priority: optional
 Section: electronics
-Filename: pool/main/i/interactivehtmlbom.inti-cmnb/interactivehtmlbom.inti-cmnb_2.5.0-3_all.deb
-Size: 119060
-SHA256: 2c20dfc4c37303b599ea1eed97f2951aed81c04cb753145f5dd7b77d40772fdc
-SHA1: 422ae3600ba8947e4712fb50acb7f238d2d0ed24
-MD5sum: ebefcc0cd9bca729c799cf268e9d6fca
+Filename: pool/main/i/interactivehtmlbom.inti-cmnb/interactivehtmlbom.inti-cmnb_2.6.0-1_all.deb
+Size: 119260
+SHA256: 0745b0634915832573fdff339c201b1bf0daa9be12f8f79b4652e6b5997699ed
+SHA1: 389943792d65f94d29c2e1beedafbc97c1742b73
+MD5sum: 514bee4a5dec3e44d47b43d4e4d9e981
 Description: Interactive HTML BOM plugin for KiCad
  This plugin generates convenient BOM listing with ability to visually
  correlate and easily search for components and their placements on the pcb.
@@ -142,10 +142,10 @@ Description: Digi-Key API plug-in for KiCost
  This package adds native support for Digi-Key to KiCost.
 
 Package: kidiff
-Version: 2.4.6-1
+Version: 2.4.7-1
 Architecture: all
 Maintainer: Salvador Eduardo Tropea <salvador@inti.gob.ar>
-Installed-Size: 78
+Installed-Size: 79
 Depends: python3:any (>= 3.2~), kicad (>= 5.1.0) | kicad-nightly (>= 5.1.0), imagemagick, poppler-utils | ghostscript, xdg-utils, kiauto, librsvg2-bin
 Recommends: git
 Conflicts: kicad-pcb-diff
@@ -153,11 +153,11 @@ Multi-Arch: foreign
 Homepage: https://github.com/INTI-CMNB/kicad_pcb-diff
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kidiff/kidiff_2.4.6-1_all.deb
-Size: 25420
-SHA256: 9c8878867461327b1251813b88e2301c59d97dc63ce4f7055fbef098ceaa137c
-SHA1: cfd2b79d25444f7a51510de4b8d063059664bad9
-MD5sum: 33bf38c39db8016bf972d45970918b49
+Filename: pool/main/k/kidiff/kidiff_2.4.7-1_all.deb
+Size: 25468
+SHA256: d18f121f87ea378dbfdb951e83eb1e7803dcb0d517d1383a1e04f2e033931080
+SHA1: 49692558ca8ac8ebd0787ff8474597a5e8feef6e
+MD5sum: 7a43eccfebda7693959f1273cc4ad802
 Description: KiCad PCB/SCH diff tool
  This package provides a tool to compute the difference between two
  PCB/SCH files created with KiCad.
