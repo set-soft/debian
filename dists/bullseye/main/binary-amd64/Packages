@@ -58,10 +58,10 @@ Description: Configurable BoM generation tool for KiCad
  The script can be used from the command line or as a KiCad BoM generator.
 
 Package: kibot
-Version: 1.6.1-2
+Version: 1.6.1-3
 Architecture: all
 Maintainer: Salvador Eduardo Tropea <salvador@inti.gob.ar>
-Installed-Size: 6351
+Installed-Size: 6370
 Depends: kiauto, python3-colorama, python3-markdown2, python3-qrcodegen, python3-requests, python3-xlsxwriter, python3-yaml, python3:any (>= 3.6~), kicad (>= 5.1.6), python3-wxgtk4.0, python3-xvfbwrapper
 Recommends: kibom.inti-cmnb (>= 1.8.0), kicost (>= 1.1.8), interactivehtmlbom.inti-cmnb (>= 2.4.1), imagemagick, librsvg2-bin, rar, ghostscript, python3-lxml, python3-mistune, kikit
 Suggests: pandoc, texlive-latex-base, texlive-latex-recommended, git, poppler-utils, kidiff, python3-numpy
@@ -69,11 +69,11 @@ Multi-Arch: foreign
 Homepage: https://github.com/INTI-CMNB/KiBot
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kibot/kibot_1.6.1-2_all.deb
-Size: 825704
-SHA256: d134f54dfdb238c079e6fef47ea7700997c401acc80f5382385b28856c07ab12
-SHA1: 9aa021cf055ba45c2654fc3e0a545ed6055d2555
-MD5sum: 459b902c36ab0034c8d73fcc05a87bbf
+Filename: pool/main/k/kibot/kibot_1.6.1-3_all.deb
+Size: 829448
+SHA256: d2483146ad8ec93b8f19a09cd4d26e910bccd46200c6f003d662c14d60c3487a
+SHA1: d92813ebcf5dfbe4d76ef1373fa5e3fea2328588
+MD5sum: 7e438efa177c3cb2cca4ad5151680f62
 Description: KiCad Bot
  KiBot is a program which helps you to automate the generation of KiCad
  output documents easily, repeatable, and most of all, scriptably.
