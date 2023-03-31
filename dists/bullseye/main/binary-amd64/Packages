@@ -174,17 +174,17 @@ Version: 1.3.0-6
 Architecture: all
 Maintainer: Salvador E. Tropea <salvador@inti.gob.ar>
 Installed-Size: 921
-Depends: python3-click, python3-commentjson, python3-markdown2, python3-numpy, python3-pcbnewtransition, python3-pybars, python3-shapely, python3:any (>= 3.2~), kicad (>= 6.0.0) | kicad-nightly (>= 6.0.0), openscad
+Depends: python3-click, python3-commentjson, python3-markdown2, python3-numpy, python3-pcbnewtransition, python3-pybars, python3-shapely, python3:any (>= 3.2~), kicad (>= 6.0.0) | kicad-nightly (>= 6.0.0), kicad-footprints | kicad-nightly-footprints, kicad-symbols | kicad-nightly-symbols, openscad
 Suggests: kikit-doc
 Multi-Arch: foreign
 Homepage: https://github.com/yaqwsx/KiKit
 Priority: optional
 Section: electronics
 Filename: pool/main/k/kikit/kikit_1.3.0-6_all.deb
-Size: 240340
-SHA256: 1972f01238fdd45e284307fb7398abf0328cab1eb48323edc92c8de2ec83ea9a
-SHA1: ff7862f56c65cc02953dc0b6d1a86ad3f5a7090f
-MD5sum: 31981f31bb94937dab124ac2026f5d3d
+Size: 240356
+SHA256: 9dfa78f55f817dc531514539b65607b465ec8e9f1c3cfb599770b2bcac0eb91e
+SHA1: ea05b3c2d9d15dcab3ff084cb0eab5bb62dd40dd
+MD5sum: 299bed5337ab9f950a22788a5db56cf5
 Description: KiKit - Automation for KiCAD
  KiKit is a Python library, KiCAD plugin and a CLI tool to automate several
  tasks in a standard KiCAD workflow like:
