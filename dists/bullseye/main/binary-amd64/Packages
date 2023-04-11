@@ -104,20 +104,20 @@ Description: KiCad PCB/SCH diff tool
  It also includes a plug-in for git.
 
 Package: kicost
-Version: 1.1.15-2
+Version: 1.1.16-1
 Architecture: all
 Maintainer: Salvador Eduardo Tropea <stropea@inti.gob.ar>
-Installed-Size: 1914
+Installed-Size: 1621
 Depends: kicad | kicad-nightly, kicost-digikey-api-v3, python3-bs4, python3-colorama, python3-lxml, python3-requests, python3-tqdm, python3-validators, python3-wxgtk4.0, python3-xlsxwriter, python3-yaml, python3:any (>= 3.2~)
 Multi-Arch: foreign
 Homepage: https://github.com/INTI-CMNB/KiCost
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kicost/kicost_1.1.15-2_all.deb
-Size: 479656
-SHA256: c8b758d3931e1d09cfaf60bd801d7f9d31a523718aedbf97bb4d5c0d0d50867c
-SHA1: cfadb5d56d25cf2ec0c56dc3f32ac56c67013240
-MD5sum: 240926601ff99f35d17997d95daa4855
+Filename: pool/main/k/kicost/kicost_1.1.16-1_all.deb
+Size: 469236
+SHA256: 059469e54d9d20edf9965da2c1de5bf9c5f33dd5d3a4a182ad4882abfdee1052
+SHA1: 8e596ea49a271a479a9022105fdde7bbe82caf1b
+MD5sum: 55d36278f27fe0e7b0067368d6c4c843
 Description: Electronic parts cost finder for KiCad
  KiCost is intended to be run as a script for generating part-cost
  spreadsheets for circuit boards developed with KiCad. KiCost also
@@ -252,20 +252,20 @@ Description: Python internationalizing and localizing helper
  applications (in particular web-based applications.)
 
 Package: python3-pcbnewtransition
-Version: 0.3.4-2
+Version: 0.3.4-3
 Architecture: all
 Maintainer: Salvador E. Tropea <salvador@inti.gob.ar>
-Installed-Size: 36
+Installed-Size: 37
 Depends: python3:any (>= 3.2~)
 Multi-Arch: foreign
 Homepage: <https://github.com/yaqwsx/pcbnewTransition>
 Priority: optional
 Section: Python
-Filename: pool/main/p/python3-pcbnewtransition/python3-pcbnewtransition_0.3.4-2_all.deb
-Size: 7008
-SHA256: 343851e8ae643bdf175d75680999376b09a4490022b1f1e71dca9e4bb8693d55
-SHA1: bf58aae15a0516695be4eb0bb7f281c85d350a9c
-MD5sum: 65146c50d6ad31a9986f9f0f436f32b7
+Filename: pool/main/p/python3-pcbnewtransition/python3-pcbnewtransition_0.3.4-3_all.deb
+Size: 7076
+SHA256: f43070e1ba6962cf1a7f75981f5c2c1e2f61d5babbf98e6a290a8e121230c173
+SHA1: b2766624764e6bd05a6a04bcda4bdf22f3e03c6d
+MD5sum: 287ccc2e2f26369126823c1a2b09bb62
 Description: KiCad 5/6 pcbnew API compatibility layer
  A very simple layer to prvide KiCad 5 compatibility using the KiCad 6 API.
 
