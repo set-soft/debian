@@ -124,20 +124,20 @@ Description: Electronic parts cost finder for KiCad
  comes with a graphical user interface in addition to command line.
 
 Package: kicost-digikey-api-v3
-Version: 0.1.2-1
+Version: 0.1.3-1
 Architecture: all
 Maintainer: Salvador E. Tropea <stropea@inti.gob.ar>
-Installed-Size: 465
+Installed-Size: 464
 Depends: python3-certifi, python3-dateutil, python3-inflection, python3-openssl, python3-pkg-resources, python3-requests, python3-six, python3-tldextract, python3-urllib3, python3:any (>= 3.2~)
 Multi-Arch: foreign
 Homepage: https://github.com/set-soft/kicost-digikey-api-v3/
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kicost-digikey-api-v3/kicost-digikey-api-v3_0.1.2-1_all.deb
-Size: 52348
-SHA256: b8d2b0ba1091945eb97b157cd9295ec7ecca2cf995a96ba0b34f462f39d3a169
-SHA1: ee768daf61de812cd85a513c4f3cb73190f436d1
-MD5sum: b33d933ef56121f723c7141df677bf4d
+Filename: pool/main/k/kicost-digikey-api-v3/kicost-digikey-api-v3_0.1.3-1_all.deb
+Size: 52508
+SHA256: 0768760b51e633660b01a705a3fe43241608351bb75ffb8f5b509e06a721c2a9
+SHA1: d01e781c949038e59136cbda1ccf86f819dc16dd
+MD5sum: 02bd4565887aa835d1a8de1bc7f7be43
 Description: Digi-Key API plug-in for KiCost
  This package adds native support for Digi-Key to KiCost.
 
