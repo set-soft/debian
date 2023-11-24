@@ -39,20 +39,20 @@ Description: KiCad automation scripts
  generate the netlist and the BoM.
 
 Package: kibom.inti-cmnb
-Version: 1.9.0-1
+Version: 1.9.1-1
 Architecture: all
 Maintainer: Salvador Eduardo Tropea <salvador@inti.gob.ar>
-Installed-Size: 136
+Installed-Size: 137
 Depends: python3-xlsxwriter, python3:any (>= 3.2~)
 Multi-Arch: foreign
 Homepage: https://github.com/INTI-CMNB/KiBoM
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kibom.inti-cmnb/kibom.inti-cmnb_1.9.0-1_all.deb
-Size: 34932
-SHA256: 0f9bc815eecdf099a73370e5696925085c6f0058083754d8621e224878ad8949
-SHA1: d1dfdbc59ddfca0285cc6674ca6a325f70ce387b
-MD5sum: e74f990d3bc4af53afb05649976de18c
+Filename: pool/main/k/kibom.inti-cmnb/kibom.inti-cmnb_1.9.1-1_all.deb
+Size: 35124
+SHA256: 0b52dbf0f6459b2794bbd91bb4bc42d72e82f37029d168a28d637f005495b48c
+SHA1: 45bd167f222c97d55b0f3ef5ded6b35775acbaca
+MD5sum: 7518865403ca6599ec1b21e9a5bf9881
 Description: Configurable BoM generation tool for KiCad
  Can generate CSV, HTML, XML and XLSX Bill of Materials for KiCad projects.
  The script can be used from the command line or as a KiCad BoM generator.
