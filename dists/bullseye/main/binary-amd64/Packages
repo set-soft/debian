@@ -252,7 +252,7 @@ Description: Python internationalizing and localizing helper
  applications (in particular web-based applications.)
 
 Package: python3-pcbnewtransition
-Version: 0.3.4-4
+Version: 0.4.0-1
 Architecture: all
 Maintainer: Salvador E. Tropea <salvador@inti.gob.ar>
 Installed-Size: 37
@@ -261,13 +261,14 @@ Multi-Arch: foreign
 Homepage: <https://github.com/yaqwsx/pcbnewTransition>
 Priority: optional
 Section: Python
-Filename: pool/main/p/python3-pcbnewtransition/python3-pcbnewtransition_0.3.4-4_all.deb
-Size: 7244
-SHA256: 3ed939746420c4ab35ad68d833f2706303308cc1c92d71db98353b6819a2a122
-SHA1: a541f5b124f557b0bcb4c6071e2c543606617173
-MD5sum: 100049e291a2b75dff0143e9e60ee85a
-Description: KiCad 5/6 pcbnew API compatibility layer
- A very simple layer to prvide KiCad 5 compatibility using the KiCad 6 API.
+Filename: pool/main/p/python3-pcbnewtransition/python3-pcbnewtransition_0.4.0-1_all.deb
+Size: 7112
+SHA256: fc4a204e65a51b85aebbce7382260d3277d30582258770911598e308683259ae
+SHA1: d2c5749d3d998e82443d2d7670995dfe67cfa255
+MD5sum: c06d0fd439b20728cb56e914b257de21
+Description: KiCad 5/6/7/8 pcbnew API compatibility layer
+ A very simple layer to provide KiCad 5/6/7 compatibility using the
+ KiCad 8 API.
 
 Package: python3-pybars
 Version: 0.9.7-1
