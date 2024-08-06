@@ -170,21 +170,21 @@ Description: KiCad PCB/SCH diff tool
  It also includes a plug-in for git.
 
 Package: kikit
-Version: 1.5.1-1
+Version: 1.6.0-1
 Architecture: all
 Maintainer: Salvador E. Tropea <salvador@inti.gob.ar>
-Installed-Size: 985
+Installed-Size: 991
 Depends: python3-click, python3-commentjson, python3-markdown2, python3-numpy, python3-pcbnewtransition, python3-pybars, python3-shapely, python3:any (>= 3.2~), kicad (>= 6.0.0) | kicad-nightly (>= 6.0.0), kicad-footprints | kicad-nightly-footprints, kicad-symbols | kicad-nightly-symbols, openscad
 Suggests: kikit-doc
 Multi-Arch: foreign
 Homepage: https://github.com/yaqwsx/KiKit
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kikit/kikit_1.5.1-1_all.deb
-Size: 251076
-SHA256: a4822dcefb4a95b883dcaa5cca5d9b37fa770944f660f0b07b689174946f4f46
-SHA1: 2df20a32da71d9fb5c353c18c9786604597643ad
-MD5sum: 4059523b4f90e3ff308c2e1b3060c220
+Filename: pool/main/k/kikit/kikit_1.6.0-1_all.deb
+Size: 251924
+SHA256: 82f02c2e87ee413b167149122ac176824d62805b1b121b257f47d759cbefa9c1
+SHA1: cd7bb09db321deea12ce00692ef4919d69c96b85
+MD5sum: bb10440fbb1950c4fdba3ae9ebbe3317
 Description: KiKit - Automation for KiCAD
  KiKit is a Python library, KiCAD plugin and a CLI tool to automate several
  tasks in a standard KiCAD workflow like:
@@ -196,19 +196,19 @@ Description: KiKit - Automation for KiCAD
 
 Package: kikit-doc
 Source: kikit
-Version: 1.5.1-1
+Version: 1.6.0-1
 Architecture: all
 Maintainer: Salvador E. Tropea <salvador@inti.gob.ar>
-Installed-Size: 10163
+Installed-Size: 10618
 Multi-Arch: foreign
 Homepage: https://github.com/yaqwsx/KiKit
 Priority: optional
 Section: doc
-Filename: pool/main/k/kikit/kikit-doc_1.5.1-1_all.deb
-Size: 10036472
-SHA256: 84a10cd7d7dac1d2de925eabcc4b06889b79768ead9d034b786836b20c10eb56
-SHA1: 433ae3de631caae2fbb8bd4fd670fb55ec0e9983
-MD5sum: 0b97f3bdc6ceef92c835dbe9757776ef
+Filename: pool/main/k/kikit/kikit-doc_1.6.0-1_all.deb
+Size: 10501544
+SHA256: 47df579011402f941b3dfbb043254385b553870bd3b7787e0b10f606e03b9614
+SHA1: f61364e6039bab47b4ff4d421cb48eee7f641e32
+MD5sum: 1636d0d4d054cdec47868bd913b41cb5
 Description: KiKit - Automation for KiCAD - Documentation
  This package contains KiKit manuals in Markdown format
 
