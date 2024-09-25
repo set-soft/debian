@@ -58,7 +58,7 @@ Description: Configurable BoM generation tool for KiCad
  The script can be used from the command line or as a KiCad BoM generator.
 
 Package: kibot
-Version: 1.8.0-1
+Version: 1.8.1-1
 Architecture: all
 Maintainer: Salvador Eduardo Tropea <salvador@inti.gob.ar>
 Installed-Size: 6737
@@ -69,11 +69,11 @@ Multi-Arch: foreign
 Homepage: https://github.com/INTI-CMNB/KiBot
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kibot/kibot_1.8.0-1_all.deb
-Size: 912824
-SHA256: d97f1152fff8e743834e946ad4bcfe2133aad60856d9cc247ecee50bc93d0714
-SHA1: bebae9854d9cd8910dbc1f263cc1b2ad936ecfe6
-MD5sum: e5aedd0f95acd7607d6c8a12f536f970
+Filename: pool/main/k/kibot/kibot_1.8.1-1_all.deb
+Size: 913524
+SHA256: 094177f667cef7aaf1f446e17d23c3e52f6933361782e795580780cd1f16d374
+SHA1: 5ce99ef11b285943fce960043e940d34811276a9
+MD5sum: 066ee2df0b2833b12a23ac56f8e9b06d
 Description: KiCad Bot
  KiBot is a program which helps you to automate the generation of KiCad
  output documents easily, repeatable, and most of all, scriptably.
