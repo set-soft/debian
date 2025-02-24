@@ -170,7 +170,7 @@ Description: KiCad PCB/SCH diff tool
  It also includes a plug-in for git.
 
 Package: kikit
-Version: 1.7.0-1
+Version: 1.7.1-1
 Architecture: all
 Maintainer: Salvador E. Tropea <salvador@inti.gob.ar>
 Installed-Size: 1217
@@ -180,11 +180,11 @@ Multi-Arch: foreign
 Homepage: https://github.com/yaqwsx/KiKit
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kikit/kikit_1.7.0-1_all.deb
-Size: 254204
-SHA256: e3913f55ac320aa33b638fa4667b8defe78c513e0b20288b306ce8bc79e52c66
-SHA1: 364b395c8ec4c080c8db83be42ca2085fc77e129
-MD5sum: 264bbb9573eda51ae5fd85d4fdb273ea
+Filename: pool/main/k/kikit/kikit_1.7.1-1_all.deb
+Size: 254388
+SHA256: 5e5b6c44473a65ebc677043e481217802cb5a219172e09a822973fdbf4078194
+SHA1: 3d82612bb715225e4367190745a6393c2aba30af
+MD5sum: 9160d55baa63c29c0fe4bb765ba521ae
 Description: KiKit - Automation for KiCAD
  KiKit is a Python library, KiCAD plugin and a CLI tool to automate several
  tasks in a standard KiCAD workflow like:
@@ -196,7 +196,7 @@ Description: KiKit - Automation for KiCAD
 
 Package: kikit-doc
 Source: kikit
-Version: 1.6.0-6
+Version: 1.7.1-1
 Architecture: all
 Maintainer: Salvador E. Tropea <salvador@inti.gob.ar>
 Installed-Size: 10618
@@ -204,11 +204,11 @@ Multi-Arch: foreign
 Homepage: https://github.com/yaqwsx/KiKit
 Priority: optional
 Section: doc
-Filename: pool/main/k/kikit/kikit-doc_1.6.0-6_all.deb
-Size: 10501864
-SHA256: a14f5f786b85f5759bb89c47b583f6863f605a7c5a5b4041f1781e9d1082a54f
-SHA1: 150be92260d2389a26ce8f31f3f02da04adf4c78
-MD5sum: 48b076a337b3edeb98b255dafabcebbb
+Filename: pool/main/k/kikit/kikit-doc_1.7.1-1_all.deb
+Size: 10502016
+SHA256: f0c606626c482a5aa98ef9ae6bb91a4379d584e9aa04b8ba435047698a6d60b1
+SHA1: 934e533e25744b9c91c56115d82a07b0339c823e
+MD5sum: ea896abf94365fb9811a414d52132065
 Description: KiKit - Automation for KiCAD - Documentation
  This package contains KiKit manuals in Markdown format
 
