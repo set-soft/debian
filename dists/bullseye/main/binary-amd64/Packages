@@ -104,20 +104,20 @@ Description: KiCad PCB/SCH diff tool
  It also includes a plug-in for git.
 
 Package: kicost
-Version: 1.1.18-1
+Version: 1.1.20-1
 Architecture: all
 Maintainer: Salvador Eduardo Tropea <stropea@inti.gob.ar>
-Installed-Size: 1622
-Depends: kicad | kicad-nightly, kicost-digikey-api-v3, python3-bs4, python3-colorama, python3-lxml, python3-requests, python3-tqdm, python3-validators, python3-wxgtk4.0, python3-xlsxwriter, python3-yaml, python3:any (>= 3.2~)
+Installed-Size: 1688
+Depends: kicad | kicad-nightly, kicost-digikey-api-v3, kicost-digikey-api-v4, python3-bs4 (>= 4.3.2), python3-colorama, python3-lxml, python3-requests, python3-tqdm, python3-validators, python3-wxgtk4.0, python3-xlsxwriter, python3-yaml, python3:any (>= 3.2~)
 Multi-Arch: foreign
 Homepage: https://github.com/INTI-CMNB/KiCost
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kicost/kicost_1.1.18-1_all.deb
-Size: 469416
-SHA256: 721bae61424094e1d1277119c3c998c41a0af9f17b0316414114c9d0b2d01b13
-SHA1: 1307531ca44bd232e16337d1d79bed06b041e0b4
-MD5sum: 451f059c4d20b69e304d76d93b07f7ce
+Filename: pool/main/k/kicost/kicost_1.1.20-1_all.deb
+Size: 473852
+SHA256: 0b2330f30d283429c2fae973a23660209cb498bb58c50f7ae6ca87e596524ee7
+SHA1: 5e54a6c0ba1bd95dc79c6e8a29f24bb23676c091
+MD5sum: 562e26b58b5579697a0fa52a7229cd73
 Description: Electronic parts cost finder for KiCad
  KiCost is intended to be run as a script for generating part-cost
  spreadsheets for circuit boards developed with KiCad. KiCost also
