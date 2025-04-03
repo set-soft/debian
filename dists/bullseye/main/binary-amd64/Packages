@@ -188,21 +188,21 @@ Description: KiCad PCB/SCH diff tool
  It also includes a plug-in for git.
 
 Package: kikit
-Version: 1.7.1-1
+Version: 1.7.2-1
 Architecture: all
 Maintainer: Salvador E. Tropea <salvador@inti.gob.ar>
-Installed-Size: 1217
+Installed-Size: 1219
 Depends: python3-click, python3-commentjson, python3-markdown2, python3-numpy, python3-pcbnewtransition, python3-pybars, python3-shapely, python3:any (>= 3.2~), kicad (>= 6.0.0) | kicad-nightly (>= 6.0.0), kicad-footprints | kicad-nightly-footprints, kicad-symbols | kicad-nightly-symbols, openscad
 Suggests: kikit-doc
 Multi-Arch: foreign
 Homepage: https://github.com/yaqwsx/KiKit
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kikit/kikit_1.7.1-1_all.deb
-Size: 254388
-SHA256: 5e5b6c44473a65ebc677043e481217802cb5a219172e09a822973fdbf4078194
-SHA1: 3d82612bb715225e4367190745a6393c2aba30af
-MD5sum: 9160d55baa63c29c0fe4bb765ba521ae
+Filename: pool/main/k/kikit/kikit_1.7.2-1_all.deb
+Size: 254480
+SHA256: aa02f67b88d5d8069b5250bf86fdc635d53af959bfacf01eac99b7aa5dd24d4f
+SHA1: 16ff421a2b85ae0b2dfc6ce538de357d156279f4
+MD5sum: bf20c239d033da5e3648c26b421f23c9
 Description: KiKit - Automation for KiCAD
  KiKit is a Python library, KiCAD plugin and a CLI tool to automate several
  tasks in a standard KiCAD workflow like:
@@ -270,7 +270,7 @@ Description: Python internationalizing and localizing helper
  applications (in particular web-based applications.)
 
 Package: python3-pcbnewtransition
-Version: 0.5.0-1
+Version: 0.5.2-1
 Architecture: all
 Maintainer: Salvador E. Tropea <salvador@inti.gob.ar>
 Installed-Size: 38
@@ -279,11 +279,11 @@ Multi-Arch: foreign
 Homepage: <https://github.com/yaqwsx/pcbnewTransition>
 Priority: optional
 Section: Python
-Filename: pool/main/p/python3-pcbnewtransition/python3-pcbnewtransition_0.5.0-1_all.deb
-Size: 7340
-SHA256: f3656e573935d8428843e81b53cff8b858f40c1bd143889af3b22522b4bf6d75
-SHA1: 8ef3b94bef82c370c9c6280c8721ca1d8fc27ef5
-MD5sum: 4245713b17a2d95d7f4c75ed922b99b0
+Filename: pool/main/p/python3-pcbnewtransition/python3-pcbnewtransition_0.5.2-1_all.deb
+Size: 7488
+SHA256: bc63c4be3afee8a216b8d631c11002874f6e9c13c6a1c37bd9a96faa1f8450e5
+SHA1: e4889fa7c113ea98e98f01e1ba46de2ecadf91f8
+MD5sum: d15a1ee1764618c93f02391527394921
 Description: KiCad 5/6/7/8 pcbnew API compatibility layer
  A very simple layer to provide KiCad 5/6/7 compatibility using the
  KiCad 8 API.
