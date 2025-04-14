@@ -4,35 +4,35 @@ Hash: SHA512
 Origin: set-soft.github.io/debian
 Label: kibot
 Codename: bullseye
-Date: Thu, 03 Apr 2025 15:28:49 UTC
+Date: Mon, 14 Apr 2025 16:08:31 UTC
 Architectures: amd64
 Components: main
 Description: KiBot Debian repo
 MD5Sum:
- 8532a902841e0a754460905447d10c35 15434 main/binary-amd64/Packages
- e41b6a40cd4f31d26fa6d4bbdb1604c0 5223 main/binary-amd64/Packages.gz
+ d61f55c7943431aaa39dfa24a6a397b1 15436 main/binary-amd64/Packages
+ 821bcfc506b58827520bd12c1f2ad4bb 5225 main/binary-amd64/Packages.gz
  02d81d2c6b20c32d5632ece24ef01f59 114 main/binary-amd64/Release
 SHA1:
- 2d5f49871c53fceb0a99fa9d998cdb23fba64113 15434 main/binary-amd64/Packages
- d03d63adb15d01b4f79a26f7b7abbd1fed917d59 5223 main/binary-amd64/Packages.gz
+ 94e8f2827d15ab443030a84b070e7c431f37d983 15436 main/binary-amd64/Packages
+ 72eaf18c5917b21bf072d6422921b0cb25fc4c33 5225 main/binary-amd64/Packages.gz
  ef221419883ef2e6bf4e2f9516eab5f8530be9ee 114 main/binary-amd64/Release
 SHA256:
- 4c6cdff0ac6bfe566a8dbce32c08a10df791ef86c542a8e7cfafbf29f97fb7b8 15434 main/binary-amd64/Packages
- 7a035a3981181ac0f24daca49aa6ed3c9bbd23e128a1ce04e7646240cb0aa2ff 5223 main/binary-amd64/Packages.gz
+ 2aff64b50bda8276df8fd1699ba5b3afc8f78d01b46eac1c5c980f8b4e1f1c78 15436 main/binary-amd64/Packages
+ 14027a660da96705bc88f7d1a06259e2e76ad8cd56717307e9137388985a8d2e 5225 main/binary-amd64/Packages.gz
  a7d5927b02c9e0adc32ab07463fb4d70071c755f409ea845d02f84a49590cdf6 114 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEjviZPKQzlBVeXWzitbo2gssdCOsFAmfuqUEACgkQtbo2gssd
-COuP2Q//TY0Hl1zNgLd8LhUQCpWYqIe1yNzn5+Lbb4G0AvSrTw+uVSiVfTjeB3ec
-gOaX9nBrbIyeZOzipE4ksAdkobWdv824bvkPOwxNLsy7D5LcvS7tQbmx4u+DcG9A
-SIETAJ4nbIpoHxos/U6uaV1jLy5L0Zj5ocZXWa+xUNE05U/eSWsN6+0C4BRr5zYD
-cBgdX/ch7kUjtYY0TVU9nn8d+2RIPdomcmrO4Nr7Fp4cS3wxhoV3M4ScuaFuEZbO
-i3lHtE/bW4jVlvmB9eWOfl+dIZ5Wn/mMidP/LaMhXOY7N50DMctHabG4k22xPkz1
-Q5vHI27LVpofJE+EybfjvSx1KVgdxTHS8ygtwaODIhIXotrbWL5kZGCs5vQdXNTR
-jZBHjZ1Q1XK9xVCKn8S9KLhbf+XUnX6GDBfIlYlaOSMmbLI8D0L4CYQgwbSril8m
-ro9ap5rGyuXCdtWmr8wCjLT6JkzR+YF1Y4orCEXWK9K/Cid4U++mUISCbxJ4u71G
-DRLFlgpQc1R2KbZmPxEL2yaYvEaeYQ+mz+ud4OSQ3c+dTtXulCFFQ0CIfOT1LNbp
-DuMg1JYoDkadsUlKflQ5wcQYe/XkgsCCBOBhiFJaND4iaLTGHGybhdheOtX6flZE
-MFA+M2eIGoFRYwLqR2s+Zfo25gJ/rJiTJmXxbIEhcTaHdwIQQm8=
-=cF7+
+iQIzBAEBCgAdFiEEjviZPKQzlBVeXWzitbo2gssdCOsFAmf9MwcACgkQtbo2gssd
+COtEqQ//dnJiAZtVxU+69Bl5mcM3p+cY2I/NNamuSPZoOXS/HOw1xE1JLoiM5C+4
+TK7RHKF6kMprqX22qRimsy5x0gNWMonoJYa+Ck3m+Snvxl+xHhnFd29bOQGnCdqK
+tf5ex3L98PQBl0VyAR582C02N5pkl0TlAHyNHmX+uxxvKGCu/If2OrP7f54cStED
+vyVqsRdKuue0yEO3RPIEEIWSpWD3Q65Iz1leu9Oa4/xqlkG3mwZjoP+HQ8oBjzMv
+utE9OXg02y/HJSzl8aL7s4qgymvcait1JZDMw5rqTepZ41sjTdKGfIbrPsmQ0vji
+p9Susfyci2slHcWQumhRgJi4A3AX4vHc0/b7reAkrN692UP5NwPgWXjkMr96nEIa
+nOxQZVyNDenWiJjcEYu4jq6Gma+NpHLNm3dFTc5CEHYEerZe8nKU4UYzeDT1YRtW
+je+f03RkCukjOIPSdCMxoyTmqRTlxyeYdG7H1zIlzoTjR1B+Rl+c0OahPzV8/y2V
+PjFlzwpd4cVz1+SfoBevJVzUqr/y1VqBSGV+12Yg6TJa9/0OZPfWsq27Oh51mvlJ
+HqXP5r5Ityj/BLA+9XX7YMVv80Fab5qhWiPlKNjN8cBxeO9JH9lZLKl7qKVTk/Lo
+hRBX+/hgWc9Zn32VJ4V/ANgHraOSBywlWy9WpwI6Y669yZFde9Q=
+=po0v
 -----END PGP SIGNATURE-----
