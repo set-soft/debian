@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: set-soft.github.io/debian
 Label: kibot
 Codename: bullseye
-Date: Mon, 14 Apr 2025 16:08:31 UTC
+Date: Tue, 19 Aug 2025 10:05:47 UTC
 Architectures: amd64
 Components: main
 Description: KiBot Debian repo
@@ -22,17 +22,17 @@ SHA256:
  a7d5927b02c9e0adc32ab07463fb4d70071c755f409ea845d02f84a49590cdf6 114 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEjviZPKQzlBVeXWzitbo2gssdCOsFAmf9MwcACgkQtbo2gssd
-COtEqQ//dnJiAZtVxU+69Bl5mcM3p+cY2I/NNamuSPZoOXS/HOw1xE1JLoiM5C+4
-TK7RHKF6kMprqX22qRimsy5x0gNWMonoJYa+Ck3m+Snvxl+xHhnFd29bOQGnCdqK
-tf5ex3L98PQBl0VyAR582C02N5pkl0TlAHyNHmX+uxxvKGCu/If2OrP7f54cStED
-vyVqsRdKuue0yEO3RPIEEIWSpWD3Q65Iz1leu9Oa4/xqlkG3mwZjoP+HQ8oBjzMv
-utE9OXg02y/HJSzl8aL7s4qgymvcait1JZDMw5rqTepZ41sjTdKGfIbrPsmQ0vji
-p9Susfyci2slHcWQumhRgJi4A3AX4vHc0/b7reAkrN692UP5NwPgWXjkMr96nEIa
-nOxQZVyNDenWiJjcEYu4jq6Gma+NpHLNm3dFTc5CEHYEerZe8nKU4UYzeDT1YRtW
-je+f03RkCukjOIPSdCMxoyTmqRTlxyeYdG7H1zIlzoTjR1B+Rl+c0OahPzV8/y2V
-PjFlzwpd4cVz1+SfoBevJVzUqr/y1VqBSGV+12Yg6TJa9/0OZPfWsq27Oh51mvlJ
-HqXP5r5Ityj/BLA+9XX7YMVv80Fab5qhWiPlKNjN8cBxeO9JH9lZLKl7qKVTk/Lo
-hRBX+/hgWc9Zn32VJ4V/ANgHraOSBywlWy9WpwI6Y669yZFde9Q=
-=po0v
+iQIzBAEBCgAdFiEEjviZPKQzlBVeXWzitbo2gssdCOsFAmikTIMACgkQtbo2gssd
+COvCoxAAhkYfMi8c1ytVnvbnXfRfI5w9lZIqZkCrvnghjSEpCMaCYmlSCOpG+nnN
+8wfomGT/OexK5158Md0p5u6kdn70oiedzv3P78VQluBx1Ce6n08akL6srTRSmNnB
+4aKpLdZpv2DBeRVBNTyEjSxzl8lKNsq9IwcB0n0vMxz9BKv8J0/pCl03dNJVeGwv
+cnUpjfvVoBxJgH1PZMEodJ0Jrz6gnoKIEPl9BQq2ZtVCcPDu635HII3MTlhP0hzT
+lVPWrjM6Ck+9EydmUV3cQEYQu3B/xMwfcT/SbDq9YMUYmJ0Cik7OUerLSbVgUs9u
+eiHiRpmDtmzn0AWbccmSZMGRnAFx/I7fgKTzyK63iqdiaqEzmRMxkQkFHHDAnQDJ
+n9DlofhnCRUikE+tWE2mIrPjayH2rMDxdQ/gxevefgHbfUlkhlooJ9MLJtgTunFc
+7axU4Hn685eltILe7iWx5l+N2yRUlS5fA/HsFKb1BoiCCG6GxqrnUqM3HDwIUL+x
+tblEiU9NHchI/evExNrTsMNzu8SGeLGU2PkWNOCnzm96bUhYOxc29ve/61Ga3BxN
+XO9ECvblMZUH92DvGjueJT8E1RzT6VaV1dTTL3lOe34WCmX7F/fqGz2ci1rjqNYF
+Llnco6TrpqgzIxW6xDK1v3HtYwQJtDSftAfLsTAum9e9JNSnuXE=
+=Vgfq
 -----END PGP SIGNATURE-----
