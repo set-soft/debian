@@ -1,19 +1,19 @@
 Origin: set-soft.github.io/debian
 Label: kibot
 Codename: bullseye
-Date: Wed, 03 Dec 2025 11:39:38 UTC
+Date: Wed, 10 Dec 2025 11:32:40 UTC
 Architectures: amd64
 Components: main
 Description: KiBot Debian repo
 MD5Sum:
- e1a6ec78b15a440d876f78081b9c27e5 15436 main/binary-amd64/Packages
- 381bb5b4354e3255809ffa5d64c4bd5e 5227 main/binary-amd64/Packages.gz
+ bdbc5880692a5a79ae277fad8d85cb3c 16168 main/binary-amd64/Packages
+ aac49d3eb0c9a4a0c4154dbc83ad727d 5444 main/binary-amd64/Packages.gz
  02d81d2c6b20c32d5632ece24ef01f59 114 main/binary-amd64/Release
 SHA1:
- 58ef7013bbe5e5ccb5d6aa2f1f76eeb0bef837b8 15436 main/binary-amd64/Packages
- e371336190ef428ff8f1d0e427d2b4db8f93088a 5227 main/binary-amd64/Packages.gz
+ c040a029986d3fd78a3b6679faf2293b09f5985c 16168 main/binary-amd64/Packages
+ 3213e63886220b0848e6472aa00f892824629301 5444 main/binary-amd64/Packages.gz
  ef221419883ef2e6bf4e2f9516eab5f8530be9ee 114 main/binary-amd64/Release
 SHA256:
- f2415554587a983624fab2c7f2636aff846920d7c306248deda836a65970f3e7 15436 main/binary-amd64/Packages
- b2ac3a08a9b73f881480ad1639459a965bf86335d0092212943755bb38fb3dbf 5227 main/binary-amd64/Packages.gz
+ 1cd40e5e0f356961de933d2dc53413c73483326e3a2288aff5bf70bc8223aade 16168 main/binary-amd64/Packages
+ 81d27141bf70c9b9a839f6cb9a5f7c12e47bfd53115f9675c01a2479013c6948 5444 main/binary-amd64/Packages.gz
  a7d5927b02c9e0adc32ab07463fb4d70071c755f409ea845d02f84a49590cdf6 114 main/binary-amd64/Release
