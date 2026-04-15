@@ -208,21 +208,21 @@ Description: KiCad PCB/SCH diff tool
  It also includes a plug-in for git.
 
 Package: kikit
-Version: 1.7.2-1
+Version: 1.8.0-1
 Architecture: all
 Maintainer: Salvador E. Tropea <salvador@inti.gob.ar>
-Installed-Size: 1219
-Depends: python3-click, python3-commentjson, python3-markdown2, python3-numpy, python3-pcbnewtransition, python3-pybars, python3-shapely, python3:any (>= 3.2~), kicad (>= 6.0.0) | kicad-nightly (>= 6.0.0), kicad-footprints | kicad-nightly-footprints, kicad-symbols | kicad-nightly-symbols, openscad
+Installed-Size: 1242
+Depends: python3-click, python3-commentjson, python3-markdown2, python3-numpy, python3-pybars, python3-shapely, python3:any (>= 3.2~), kicad (>= 6.0.0) | kicad-nightly (>= 6.0.0), kicad-footprints | kicad-nightly-footprints, kicad-symbols | kicad-nightly-symbols, openscad
 Suggests: kikit-doc
 Multi-Arch: foreign
 Homepage: https://github.com/yaqwsx/KiKit
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kikit/kikit_1.7.2-1_all.deb
-Size: 254480
-SHA256: aa02f67b88d5d8069b5250bf86fdc635d53af959bfacf01eac99b7aa5dd24d4f
-SHA1: 16ff421a2b85ae0b2dfc6ce538de357d156279f4
-MD5sum: bf20c239d033da5e3648c26b421f23c9
+Filename: pool/main/k/kikit/kikit_1.8.0-1_all.deb
+Size: 259476
+SHA256: 02378d16ae5b86fb8f4079d900c786e30922f335c8d3b26b301ae47d5a7e2ebb
+SHA1: 1b2d95bd388515eb853304a67b678add8dd3a30f
+MD5sum: 48e2b54db0ce5692b8bfec78df8a0206
 Description: KiKit - Automation for KiCAD
  KiKit is a Python library, KiCAD plugin and a CLI tool to automate several
  tasks in a standard KiCAD workflow like:
@@ -234,7 +234,7 @@ Description: KiKit - Automation for KiCAD
 
 Package: kikit-doc
 Source: kikit
-Version: 1.7.1-1
+Version: 1.8.0-1
 Architecture: all
 Maintainer: Salvador E. Tropea <salvador@inti.gob.ar>
 Installed-Size: 10618
@@ -242,11 +242,11 @@ Multi-Arch: foreign
 Homepage: https://github.com/yaqwsx/KiKit
 Priority: optional
 Section: doc
-Filename: pool/main/k/kikit/kikit-doc_1.7.1-1_all.deb
-Size: 10502016
-SHA256: f0c606626c482a5aa98ef9ae6bb91a4379d584e9aa04b8ba435047698a6d60b1
-SHA1: 934e533e25744b9c91c56115d82a07b0339c823e
-MD5sum: ea896abf94365fb9811a414d52132065
+Filename: pool/main/k/kikit/kikit-doc_1.8.0-1_all.deb
+Size: 10504952
+SHA256: f53d7a1d6f47df8d598eb1ed482f86dbb3bab9d4642e1057e0d9155ff87b721a
+SHA1: bbe5ddcc1cddd90d068bf49a04eb7b745dff2369
+MD5sum: 26d7a01ff9ccb61dd4b3a5a7ff8d5ef6
 Description: KiKit - Automation for KiCAD - Documentation
  This package contains KiKit manuals in Markdown format
 
