@@ -1,18 +1,18 @@
 Package: interactivehtmlbom.inti-cmnb
-Version: 2.11.1-1
+Version: 2.11.2-1
 Architecture: all
 Maintainer: Salvador Eduardo Tropea <salvador@inti.gob.ar>
-Installed-Size: 972
+Installed-Size: 973
 Depends: python3:any (>= 3.2~), kicad (>= 5.1.0) | kicad-nightly, python3-wxgtk4.0
 Multi-Arch: foreign
 Homepage: https://github.com/INTI-CMNB/InteractiveHtmlBom
 Priority: optional
 Section: electronics
-Filename: pool/main/i/interactivehtmlbom.inti-cmnb/interactivehtmlbom.inti-cmnb_2.11.1-1_all.deb
-Size: 124332
-SHA256: 8e293430f847dab8dbe8af2abbd73acaac391b8def63770b46a182c3ef64ed07
-SHA1: 440edfa033cd60af26d028e102283cd3d8be0f1a
-MD5sum: 78fa66941cb4f12bc7aaec501854acaa
+Filename: pool/main/i/interactivehtmlbom.inti-cmnb/interactivehtmlbom.inti-cmnb_2.11.2-1_all.deb
+Size: 124472
+SHA256: 9bfc4f10f56452a6b1d7cc0c146105624542e3c90c2102e2b44bcde86ad1c45f
+SHA1: bea76f053ec5fcb1a6f2a95f97749c5af97241fa
+MD5sum: 4780e1a5773c5c0d09bb08608f8c4c37
 Description: Interactive HTML BOM plugin for KiCad
  This plugin generates convenient BOM listing with ability to visually
  correlate and easily search for components and their placements on the pcb.
