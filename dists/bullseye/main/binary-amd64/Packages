@@ -124,27 +124,27 @@ Description: KiCad PCB/SCH diff tool
  It also includes a plug-in for git.
 
 Package: kicost
-Version: 1.1.20-1
+Version: 1.1.21-1
 Architecture: all
 Maintainer: Salvador Eduardo Tropea <stropea@inti.gob.ar>
-Installed-Size: 1688
+Installed-Size: 1340
 Depends: kicad | kicad-nightly, kicost-digikey-api-v3, kicost-digikey-api-v4, python3-bs4 (>= 4.3.2), python3-colorama, python3-lxml, python3-requests, python3-tqdm, python3-validators, python3-wxgtk4.0, python3-xlsxwriter, python3-yaml, python3:any (>= 3.2~)
 Multi-Arch: foreign
 Homepage: https://github.com/INTI-CMNB/KiCost
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kicost/kicost_1.1.20-1_all.deb
-Size: 473852
-SHA256: 0b2330f30d283429c2fae973a23660209cb498bb58c50f7ae6ca87e596524ee7
-SHA1: 5e54a6c0ba1bd95dc79c6e8a29f24bb23676c091
-MD5sum: 562e26b58b5579697a0fa52a7229cd73
+Filename: pool/main/k/kicost/kicost_1.1.21-1_all.deb
+Size: 387536
+SHA256: a40d49f056deb1d2d4bb45b2033e9fd087be57bcb676137ec25dffaeb52391f2
+SHA1: 62f1338775c106dea3dc5f15ce0333cb2e34cb7c
+MD5sum: 5657f1c91773791a281fc3f57db54cc2
 Description: Electronic parts cost finder for KiCad
  KiCost is intended to be run as a script for generating part-cost
  spreadsheets for circuit boards developed with KiCad. KiCost also
  comes with a graphical user interface in addition to command line.
 
 Package: kicost-digikey-api-v3
-Version: 0.1.4-1
+Version: 0.1.5-1
 Architecture: all
 Maintainer: Salvador E. Tropea <stropea@inti.gob.ar>
 Installed-Size: 470
@@ -153,16 +153,16 @@ Multi-Arch: foreign
 Homepage: https://github.com/set-soft/kicost-digikey-api-v3/
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kicost-digikey-api-v3/kicost-digikey-api-v3_0.1.4-1_all.deb
-Size: 53156
-SHA256: 9974733b3ce7cd9d883beb3b45ede93a4d194541683b83abf0bf320c094b6a30
-SHA1: e7e9e186f9b15e5bf424bdb05be9b1771b00165d
-MD5sum: 99a7bd441d54b64d7479d2dca8fa2b8e
+Filename: pool/main/k/kicost-digikey-api-v3/kicost-digikey-api-v3_0.1.5-1_all.deb
+Size: 53232
+SHA256: 844020980cf3a4a2d909979b3fc4e6b45158b3043d5fd826bd088402ce2af2dd
+SHA1: a4013f429610562db3efacc024e2f1df8911dc00
+MD5sum: 66efd1b2a49d54d3b75f8d5964d531e6
 Description: Digi-Key API plug-in for KiCost
  This package adds native support for Digi-Key to KiCost.
 
 Package: kicost-digikey-api-v4
-Version: 0.1.4-1
+Version: 0.1.5-1
 Architecture: all
 Maintainer: Salvador E. Tropea <stropea@inti.gob.ar>
 Installed-Size: 714
@@ -171,11 +171,11 @@ Multi-Arch: foreign
 Homepage: https://github.com/set-soft/kicost-digikey-api-v4/
 Priority: optional
 Section: electronics
-Filename: pool/main/k/kicost-digikey-api-v4/kicost-digikey-api-v4_0.1.4-1_all.deb
-Size: 65040
-SHA256: 1dc90bc08e17359fd27823c9fa0ebd46f88ee5556b0597db65831a778a067c45
-SHA1: d37734cc060f60242fe294e7c12610b0ec664987
-MD5sum: f6ab32bdd40d6beac2ff4690ab1f8317
+Filename: pool/main/k/kicost-digikey-api-v4/kicost-digikey-api-v4_0.1.5-1_all.deb
+Size: 65168
+SHA256: b3a27dff6e4b9c43f1c74f4adc7670cf9ce5ecc2ed8e7c8dbd93947b31da4083
+SHA1: b708660f1f539156657252c1baedc0634c7b1ae5
+MD5sum: 958e96b2e7e64bd9910c37acfeb65da8
 Description: Digi-Key V4 API plug-in for KiCost
  This package adds native support for Digi-Key to KiCost.
 
